@@ -1,0 +1,6210 @@
+```json
+{
+  "vocabulary": [
+    {
+      "word": "consistent",
+      "meanings": ["一致的"]
+    },
+    {
+      "word": "battery",
+      "meanings": ["电池"]
+    },
+    {
+      "word": "competent",
+      "meanings": ["能胜任的", "有能力的"]
+    },
+    {
+      "word": "preserve",
+      "meanings": ["保存", "保护"]
+    },
+    {
+      "word": "possession",
+      "meanings": ["拥有"]
+    },
+    {
+      "word": "proximately",
+      "meanings": ["近似", "接近"]
+    },
+    {
+      "word": "wildfire",
+      "meanings": ["野火"]
+    },
+    {
+      "word": "compact",
+      "meanings": ["紧密的", "紧凑的"]
+    },
+    {
+      "word": "defy",
+      "meanings": ["违背", "违抗"]
+    },
+    {
+      "word": "absolutely",
+      "meanings": ["当然"]
+    },
+    {
+      "word": "filter",
+      "meanings": ["过滤"]
+    },
+    {
+      "word": "server",
+      "meanings": ["服务器"]
+    },
+    {
+      "word": "spoil",
+      "meanings": ["溺爱"]
+    },
+    {
+      "word": "rustle",
+      "meanings": ["发出沙沙声"]
+    },
+    {
+      "word": "diversion",
+      "meanings": ["转移", "娱乐"]
+    },
+    {
+      "word": "complaint",
+      "meanings": ["抱怨", "投诉"]
+    },
+    {
+      "word": "merge",
+      "meanings": ["合并"]
+    },
+    {
+      "word": "priceless",
+      "meanings": ["无价的"]
+    },
+    {
+      "word": "honorary",
+      "meanings": ["荣誉的"]
+    },
+    {
+      "word": "chronic",
+      "meanings": ["长期的", "慢性的"]
+    },
+    {
+      "word": "extracurricular",
+      "meanings": ["课外的"]
+    },
+    {
+      "word": "lobby",
+      "meanings": ["游说"]
+    },
+    {
+      "word": "inexhaustible",
+      "meanings": ["用不完的", "无穷无尽的"]
+    },
+    {
+      "word": "inevitable",
+      "meanings": ["不可避免的"]
+    },
+    {
+      "word": "contamination",
+      "meanings": ["污染"]
+    },
+    {
+      "word": "suspend",
+      "meanings": ["暂停"]
+    },
+    {
+      "word": "imminent",
+      "meanings": ["即将来临的"]
+    },
+    {
+      "word": "obesity",
+      "meanings": ["肥胖"]
+    },
+    {
+      "word": "aid",
+      "meanings": ["援助", "有助于"]
+    },
+    {
+      "word": "solution",
+      "meanings": ["解决方法", "溶液"]
+    },
+    {
+      "word": "tuition",
+      "meanings": ["学费"]
+    },
+    {
+      "word": "esteem",
+      "meanings": ["尊重"]
+    },
+    {
+      "word": "purchase",
+      "meanings": ["购买"]
+    },
+    {
+      "word": "incorporate",
+      "meanings": ["合并"]
+    },
+    {
+      "word": "prevail",
+      "meanings": ["流行", "普遍"]
+    },
+    {
+      "word": "irrational",
+      "meanings": ["不合理的", "不理性的"]
+    },
+    {
+      "word": "inherent",
+      "meanings": ["固有的"]
+    },
+    {
+      "word": "overexcited",
+      "meanings": ["过于激动的"]
+    },
+    {
+      "word": "preference",
+      "meanings": ["偏爱"]
+    },
+    {
+      "word": "evolution",
+      "meanings": ["演变", "进化"]
+    },
+    {
+      "word": "exotic",
+      "meanings": ["异域的", "外国的"]
+    },
+    {
+      "word": "stockbroker",
+      "meanings": ["股票经纪人"]
+    },
+    {
+      "word": "misinterpret",
+      "meanings": ["误解"]
+    },
+    {
+      "word": "prosperity",
+      "meanings": ["繁荣"]
+    },
+    {
+      "word": "tank",
+      "meanings": ["水箱"]
+    },
+    {
+      "word": "outdated",
+      "meanings": ["过时的"]
+    },
+    {
+      "word": "outnumber",
+      "meanings": ["超过"]
+    },
+    {
+      "word": "supervisor",
+      "meanings": ["督导"]
+    },
+    {
+      "word": "fluctuate",
+      "meanings": ["波动"]
+    },
+    {
+      "word": "substance",
+      "meanings": ["物质"]
+    },
+    {
+      "word": "profitable",
+      "meanings": ["有利可图的"]
+    },
+    {
+      "word": "markedly",
+      "meanings": ["显著地"]
+    },
+    {
+      "word": "ineffective",
+      "meanings": ["无效的"]
+    },
+    {
+      "word": "bleak",
+      "meanings": ["荒凉的"]
+    },
+    {
+      "word": "optimistic",
+      "meanings": ["乐观的"]
+    },
+    {
+      "word": "ultimate",
+      "meanings": ["最终的"]
+    },
+    {
+      "word": "consumption",
+      "meanings": ["消耗", "消费"]
+    },
+    {
+      "word": "foster",
+      "meanings": ["促进", "培养"]
+    },
+    {
+      "word": "receipt",
+      "meanings": ["发票"]
+    },
+    {
+      "word": "harsh",
+      "meanings": ["严酷的", "严峻的"]
+    },
+    {
+      "word": "misfortune",
+      "meanings": ["不幸", "灾祸"]
+    },
+    {
+      "word": "citation",
+      "meanings": ["引文"]
+    },
+    {
+      "word": "rape",
+      "meanings": ["强奸"]
+    },
+    {
+      "word": "ecological",
+      "meanings": ["生态学的"]
+    },
+    {
+      "word": "lag",
+      "meanings": ["落后"]
+    },
+    {
+      "word": "controversy",
+      "meanings": ["争议"]
+    },
+    {
+      "word": "cornerstone",
+      "meanings": ["基石"]
+    },
+    {
+      "word": "erect",
+      "meanings": ["建立"]
+    },
+    {
+      "word": "prematurely",
+      "meanings": ["过早地"]
+    },
+    {
+      "word": "initiative",
+      "meanings": ["主动性"]
+    },
+    {
+      "word": "dilute",
+      "meanings": ["稀释", "冲淡"]
+    },
+    {
+      "word": "viewpoint",
+      "meanings": ["观点"]
+    },
+    {
+      "word": "typical",
+      "meanings": ["典型的"]
+    },
+    {
+      "word": "stray",
+      "meanings": ["流浪的动物"]
+    },
+    {
+      "word": "imbalance",
+      "meanings": ["不平衡"]
+    },
+    {
+      "word": "affiliation",
+      "meanings": ["隶属关系"]
+    },
+    {
+      "word": "counterpart",
+      "meanings": ["对等物"]
+    },
+    {
+      "word": "classify",
+      "meanings": ["分类"]
+    },
+    {
+      "word": "demonstration",
+      "meanings": ["展示", "游行"]
+    },
+    {
+      "word": "outlive",
+      "meanings": ["比…活得长"]
+    },
+    {
+      "word": "reservation",
+      "meanings": ["预定"]
+    },
+    {
+      "word": "circumstance",
+      "meanings": ["情况", "环境"]
+    },
+    {
+      "word": "revolutionize",
+      "meanings": ["革命化"]
+    },
+    {
+      "word": "outweigh",
+      "meanings": ["超过"]
+    },
+    {
+      "word": "cast",
+      "meanings": ["投掷", "扔"]
+    },
+    {
+      "word": "uncertain",
+      "meanings": ["不确定的"]
+    },
+    {
+      "word": "threat",
+      "meanings": ["威胁"]
+    },
+    {
+      "word": "conservative",
+      "meanings": ["保守的"]
+    },
+    {
+      "word": "overestimate",
+      "meanings": ["高估"]
+    },
+    {
+      "word": "documentary",
+      "meanings": ["纪录片"]
+    },
+    {
+      "word": "relieve",
+      "meanings": ["减轻", "缓解"]
+    },
+    {
+      "word": "regardless",
+      "meanings": ["不管", "不顾"]
+    },
+    {
+      "word": "pause",
+      "meanings": ["暂停", "迟疑"]
+    },
+    {
+      "word": "launch",
+      "meanings": ["发布", "推出"]
+    },
+    {
+      "word": "apartment",
+      "meanings": ["公寓"]
+    },
+    {
+      "word": "spark",
+      "meanings": ["火花"]
+    },
+    {
+      "word": "eliminate",
+      "meanings": ["消除"]
+    },
+    {
+      "word": "unintentionally",
+      "meanings": ["无意地"]
+    },
+    {
+      "word": "opposition",
+      "meanings": ["反对"]
+    },
+    {
+      "word": "polar",
+      "meanings": ["极地的"]
+    },
+    {
+      "word": "integral",
+      "meanings": ["必需的"]
+    },
+    {
+      "word": "guard",
+      "meanings": ["保护"]
+    },
+    {
+      "word": "branch",
+      "meanings": ["分支", "分公司"]
+    },
+    {
+      "word": "affiliate",
+      "meanings": ["使隶属于"]
+    },
+    {
+      "word": "irrigation",
+      "meanings": ["灌溉"]
+    },
+    {
+      "word": "stove",
+      "meanings": ["炉子"]
+    },
+    {
+      "word": "memorable",
+      "meanings": ["值得纪念的"]
+    },
+    {
+      "word": "elimination",
+      "meanings": ["消除", "淘汰"]
+    },
+    {
+      "word": "revenue",
+      "meanings": ["收入"]
+    },
+    {
+      "word": "decisive",
+      "meanings": ["决定性的"]
+    },
+    {
+      "word": "displace",
+      "meanings": ["取代"]
+    },
+    {
+      "word": "violation",
+      "meanings": ["违反"]
+    },
+    {
+      "word": "ideological",
+      "meanings": ["意识形态的"]
+    },
+    {
+      "word": "neighborhood",
+      "meanings": ["附近"]
+    },
+    {
+      "word": "calorie",
+      "meanings": ["卡路里"]
+    },
+    {
+      "word": "fierce",
+      "meanings": ["激烈的"]
+    },
+    {
+      "word": "mention",
+      "meanings": ["提及"]
+    },
+    {
+      "word": "extend",
+      "meanings": ["延伸", "延期"]
+    },
+    {
+      "word": "column",
+      "meanings": ["专栏"]
+    },
+    {
+      "word": "analytical",
+      "meanings": ["分析的"]
+    },
+    {
+      "word": "figure",
+      "meanings": ["数字"]
+    },
+    {
+      "word": "frighten",
+      "meanings": ["使害怕"]
+    },
+    {
+      "word": "preindustrial",
+      "meanings": ["工业化以前的"]
+    },
+    {
+      "word": "furnish",
+      "meanings": ["提供"]
+    },
+    {
+      "word": "scarcity",
+      "meanings": ["缺乏"]
+    },
+    {
+      "word": "transform",
+      "meanings": ["转变"]
+    },
+    {
+      "word": "misled",
+      "meanings": ["误导"]
+    },
+    {
+      "word": "intervene",
+      "meanings": ["干涉"]
+    },
+    {
+      "word": "vary",
+      "meanings": ["变化"]
+    },
+    {
+      "word": "bureaucracy",
+      "meanings": ["官僚主义"]
+    },
+    {
+      "word": "recruiter",
+      "meanings": ["招聘者"]
+    },
+    {
+      "word": "pattern",
+      "meanings": ["模式"]
+    },
+    {
+      "word": "necessity",
+      "meanings": ["必须", "必要性"]
+    },
+    {
+      "word": "deny",
+      "meanings": ["否认"]
+    },
+    {
+      "word": "drift",
+      "meanings": ["漂流"]
+    },
+    {
+      "word": "endorsement",
+      "meanings": ["支持"]
+    },
+    {
+      "word": "dare",
+      "meanings": ["敢于做"]
+    },
+    {
+      "word": "consultancy",
+      "meanings": ["咨询公司"]
+    },
+    {
+      "word": "constant",
+      "meanings": ["不断的"]
+    },
+    {
+      "word": "deposit",
+      "meanings": ["存放", "存款"]
+    },
+    {
+      "word": "transmit",
+      "meanings": ["传播", "传导"]
+    },
+    {
+      "word": "undermine",
+      "meanings": ["削弱"]
+    },
+    {
+      "word": "resign",
+      "meanings": ["辞职"]
+    },
+    {
+      "word": "respective",
+      "meanings": ["各自的"]
+    },
+    {
+      "word": "consent",
+      "meanings": ["同意"]
+    },
+    {
+      "word": "reunion",
+      "meanings": ["团聚"]
+    },
+    {
+      "word": "premium",
+      "meanings": ["保险费"]
+    },
+    {
+      "word": "interpretation",
+      "meanings": ["解释", "理解"]
+    },
+    {
+      "word": "concrete",
+      "meanings": ["具体的"]
+    },
+    {
+      "word": "facility",
+      "meanings": ["设施"]
+    },
+    {
+      "word": "convert",
+      "meanings": ["转换", "改变"]
+    },
+    {
+      "word": "prompt",
+      "meanings": ["促使"]
+    },
+    {
+      "word": "weave",
+      "meanings": ["织布", "编织"]
+    },
+    {
+      "word": "conformity",
+      "meanings": ["一致"]
+    },
+    {
+      "word": "inaction",
+      "meanings": ["不作为"]
+    },
+    {
+      "word": "trim",
+      "meanings": ["修剪"]
+    },
+    {
+      "word": "irony",
+      "meanings": ["讽刺"]
+    },
+    {
+      "word": "monopolize",
+      "meanings": ["垄断"]
+    },
+    {
+      "word": "workload",
+      "meanings": ["工作量"]
+    },
+    {
+      "word": "complicated",
+      "meanings": ["复杂的"]
+    },
+    {
+      "word": "property",
+      "meanings": ["财产"]
+    },
+    {
+      "word": "underrepresented",
+      "meanings": ["未被充分代表的"]
+    },
+    {
+      "word": "philosophy",
+      "meanings": ["哲学"]
+    },
+    {
+      "word": "regime",
+      "meanings": ["制度", "管理体制"]
+    },
+    {
+      "word": "bizarre",
+      "meanings": ["古怪的"]
+    },
+    {
+      "word": "ruin",
+      "meanings": ["毁坏"]
+    },
+    {
+      "word": "inspire",
+      "meanings": ["鼓励"]
+    },
+    {
+      "word": "deforestation",
+      "meanings": ["砍伐森林"]
+    },
+    {
+      "word": "exceptional",
+      "meanings": ["例外的"]
+    },
+    {
+      "word": "hazard",
+      "meanings": ["危险"]
+    },
+    {
+      "word": "upgrade",
+      "meanings": ["升级"]
+    },
+    {
+      "word": "abnormally",
+      "meanings": ["不正常地"]
+    },
+    {
+      "word": "accidentally",
+      "meanings": ["偶然地"]
+    },
+    {
+      "word": "frontier",
+      "meanings": ["边境"]
+    },
+    {
+      "word": "considerable",
+      "meanings": ["相当多的"]
+    },
+    {
+      "word": "legalize",
+      "meanings": ["合法化"]
+    },
+    {
+      "word": "dispensable",
+      "meanings": ["可有可无的"]
+    },
+    {
+      "word": "certify",
+      "meanings": ["保证", "证明"]
+    },
+    {
+      "word": "insurer",
+      "meanings": ["保险公司"]
+    },
+    {
+      "word": "overstate",
+      "meanings": ["夸张"]
+    },
+    {
+      "word": "profound",
+      "meanings": ["深刻的", "博学的"]
+    },
+    {
+      "word": "agony",
+      "meanings": ["痛苦"]
+    },
+    {
+      "word": "craft",
+      "meanings": ["手艺", "精巧制作"]
+    },
+    {
+      "word": "obscurity",
+      "meanings": ["默默无闻"]
+    },
+    {
+      "word": "guarantee",
+      "meanings": ["保证"]
+    },
+    {
+      "word": "dolphin",
+      "meanings": ["海豚"]
+    },
+    {
+      "word": "severity",
+      "meanings": ["严重性"]
+    },
+    {
+      "word": "discourage",
+      "meanings": ["阻止", "使气馁"]
+    },
+    {
+      "word": "fault",
+      "meanings": ["过失"]
+    },
+    {
+      "word": "robbery",
+      "meanings": ["抢劫"]
+    },
+    {
+      "word": "inanimate",
+      "meanings": ["无生命的"]
+    },
+    {
+      "word": "calculation",
+      "meanings": ["计算"]
+    },
+    {
+      "word": "baffle",
+      "meanings": ["使迷惑"]
+    },
+    {
+      "word": "overcharge",
+      "meanings": ["多收钱"]
+    },
+    {
+      "word": "nap",
+      "meanings": ["小睡"]
+    },
+    {
+      "word": "disposal",
+      "meanings": ["处理", "支配"]
+    },
+    {
+      "word": "authorities",
+      "meanings": ["当局"]
+    },
+    {
+      "word": "chronicle",
+      "meanings": ["记录"]
+    },
+    {
+      "word": "shade",
+      "meanings": ["遮阳", "遮蔽"]
+    },
+    {
+      "word": "milestone",
+      "meanings": ["里程碑"]
+    },
+    {
+      "word": "unstable",
+      "meanings": ["不稳定的"]
+    },
+    {
+      "word": "strain",
+      "meanings": ["压力"]
+    },
+    {
+      "word": "municipal",
+      "meanings": ["市政府的"]
+    },
+    {
+      "word": "ideologically",
+      "meanings": ["意识形态上"]
+    },
+    {
+      "word": "greedy",
+      "meanings": ["贪婪的"]
+    },
+    {
+      "word": "robust",
+      "meanings": ["强健的"]
+    },
+    {
+      "word": "diagnose",
+      "meanings": ["诊断"]
+    },
+    {
+      "word": "definite",
+      "meanings": ["一定的", "确切的"]
+    },
+    {
+      "word": "reserved",
+      "meanings": ["保留意见的"]
+    },
+    {
+      "word": "affection",
+      "meanings": ["喜爱"]
+    },
+    {
+      "word": "material",
+      "meanings": ["材料"]
+    },
+    {
+      "word": "conduct",
+      "meanings": ["进行", "实行"]
+    },
+    {
+      "word": "association",
+      "meanings": ["联系"]
+    },
+    {
+      "word": "collide",
+      "meanings": ["撞击", "碰撞"]
+    },
+    {
+      "word": "industrious",
+      "meanings": ["勤奋的"]
+    },
+    {
+      "word": "fascinate",
+      "meanings": ["使着迷"]
+    },
+    {
+      "word": "prevalence",
+      "meanings": ["流行", "普遍"]
+    },
+    {
+      "word": "exert",
+      "meanings": ["施加"]
+    },
+    {
+      "word": "minor",
+      "meanings": ["次要的", "小的"]
+    },
+    {
+      "word": "tempting",
+      "meanings": ["吸引人的"]
+    },
+    {
+      "word": "appropriation",
+      "meanings": ["挪用"]
+    },
+    {
+      "word": "injustice",
+      "meanings": ["不公正"]
+    },
+    {
+      "word": "irrelevant",
+      "meanings": ["无关的"]
+    },
+    {
+      "word": "registration",
+      "meanings": ["注册", "登记"]
+    },
+    {
+      "word": "democracy",
+      "meanings": ["民主"]
+    },
+    {
+      "word": "grateful",
+      "meanings": ["感激的"]
+    },
+    {
+      "word": "offense",
+      "meanings": ["冒犯"]
+    },
+    {
+      "word": "atmosphere",
+      "meanings": ["气氛", "大气"]
+    },
+    {
+      "word": "approach",
+      "meanings": ["方法"]
+    },
+    {
+      "word": "rival",
+      "meanings": ["对手"]
+    },
+    {
+      "word": "commitment",
+      "meanings": ["承诺"]
+    },
+    {
+      "word": "furious",
+      "meanings": ["生气的", "激烈的"]
+    },
+    {
+      "word": "accurate",
+      "meanings": ["精确的"]
+    },
+    {
+      "word": "abstract",
+      "meanings": ["抽象的"]
+    },
+    {
+      "word": "deprivation",
+      "meanings": ["剥夺", "匮乏"]
+    },
+    {
+      "word": "designate",
+      "meanings": ["指定", "委派"]
+    },
+    {
+      "word": "turtle",
+      "meanings": ["海龟"]
+    },
+    {
+      "word": "expertise",
+      "meanings": ["专业知识"]
+    },
+    {
+      "word": "vessel",
+      "meanings": ["血管"]
+    },
+    {
+      "word": "ventilate",
+      "meanings": ["使通风"]
+    },
+    {
+      "word": "trade-off",
+      "meanings": ["权衡", "交易"]
+    },
+    {
+      "word": "endless",
+      "meanings": ["无限的", "没完没了的"]
+    },
+    {
+      "word": "temptation",
+      "meanings": ["诱惑"]
+    },
+    {
+      "word": "legislation",
+      "meanings": ["立法"]
+    },
+    {
+      "word": "duplication",
+      "meanings": ["复制品"]
+    },
+    {
+      "word": "trick",
+      "meanings": ["骗局", "诡计"]
+    },
+    {
+      "word": "evaluation",
+      "meanings": ["评价"]
+    },
+    {
+      "word": "abandonment",
+      "meanings": ["放弃"]
+    },
+    {
+      "word": "turbulent",
+      "meanings": ["动荡的", "骚乱的"]
+    },
+    {
+      "word": "expel",
+      "meanings": ["开除", "驱逐"]
+    },
+    {
+      "word": "carpenter",
+      "meanings": ["木匠"]
+    },
+    {
+      "word": "hasty",
+      "meanings": ["匆忙的"]
+    },
+    {
+      "word": "unprecedented",
+      "meanings": ["史无前例的"]
+    },
+    {
+      "word": "extreme",
+      "meanings": ["极端的"]
+    },
+    {
+      "word": "outperform",
+      "meanings": ["胜过"]
+    },
+    {
+      "word": "modernize",
+      "meanings": ["现代化"]
+    },
+    {
+      "word": "interactive",
+      "meanings": ["交互的", "互动的"]
+    },
+    {
+      "word": "successively",
+      "meanings": ["接连着地"]
+    },
+    {
+      "word": "innovation",
+      "meanings": ["创新", "革新"]
+    },
+    {
+      "word": "elaborately",
+      "meanings": ["精心设计地"]
+    },
+    {
+      "word": "vegetarian",
+      "meanings": ["素食主义者"]
+    },
+    {
+      "word": "faculty",
+      "meanings": ["全体教员"]
+    },
+    {
+      "word": "render",
+      "meanings": ["给予"]
+    },
+    {
+      "word": "portray",
+      "meanings": ["描述"]
+    },
+    {
+      "word": "notion",
+      "meanings": ["想法", "观点"]
+    },
+    {
+      "word": "tropical",
+      "meanings": ["热带的"]
+    },
+    {
+      "word": "character",
+      "meanings": ["角色", "特色"]
+    },
+    {
+      "word": "infectious",
+      "meanings": ["感染的", "传染的"]
+    },
+    {
+      "word": "lawn",
+      "meanings": ["草坪"]
+    },
+    {
+      "word": "permanent",
+      "meanings": ["永久的"]
+    },
+    {
+      "word": "transcend",
+      "meanings": ["超越"]
+    },
+    {
+      "word": "kidnap",
+      "meanings": ["绑架"]
+    },
+    {
+      "word": "dominate",
+      "meanings": ["主导", "主宰"]
+    },
+    {
+      "word": "stabilize",
+      "meanings": ["使稳固"]
+    },
+    {
+      "word": "consult",
+      "meanings": ["咨询"]
+    },
+    {
+      "word": "resume",
+      "meanings": ["简历"]
+    },
+    {
+      "word": "migrate",
+      "meanings": ["移民", "迁徙"]
+    },
+    {
+      "word": "isolation",
+      "meanings": ["隔绝", "隔离"]
+    },
+    {
+      "word": "derive",
+      "meanings": ["获得"]
+    },
+    {
+      "word": "conservation",
+      "meanings": ["保护"]
+    },
+    {
+      "word": "incidence",
+      "meanings": ["发生率"]
+    },
+    {
+      "word": "perpetual",
+      "meanings": ["永久的"]
+    },
+    {
+      "word": "pessimistic",
+      "meanings": ["悲观的"]
+    },
+    {
+      "word": "crew",
+      "meanings": ["机组人员"]
+    },
+    {
+      "word": "mourn",
+      "meanings": ["哀悼"]
+    },
+    {
+      "word": "vice",
+      "meanings": ["恶习"]
+    },
+    {
+      "word": "shot",
+      "meanings": ["照相", "照片"]
+    },
+    {
+      "word": "virus",
+      "meanings": ["病毒"]
+    },
+    {
+      "word": "dorm",
+      "meanings": ["宿舍"]
+    },
+    {
+      "word": "erupt",
+      "meanings": ["爆发", "喷出"]
+    },
+    {
+      "word": "impact",
+      "meanings": ["影响"]
+    },
+    {
+      "word": "index",
+      "meanings": ["指数", "标志"]
+    },
+    {
+      "word": "claim",
+      "meanings": ["声称", "索取"]
+    },
+    {
+      "word": "embrace",
+      "meanings": ["采纳", "接受"]
+    },
+    {
+      "word": "enviable",
+      "meanings": ["值得羡慕的"]
+    },
+    {
+      "word": "blouse",
+      "meanings": ["女衬衫"]
+    },
+    {
+      "word": "deliver",
+      "meanings": ["递送", "发表演讲"]
+    },
+    {
+      "word": "rhythm",
+      "meanings": ["节奏"]
+    },
+    {
+      "word": "code",
+      "meanings": ["代号", "密码"]
+    },
+    {
+      "word": "monopoly",
+      "meanings": ["垄断"]
+    },
+    {
+      "word": "interfere",
+      "meanings": ["干涉", "妨碍"]
+    },
+    {
+      "word": "contestant",
+      "meanings": ["参赛者"]
+    },
+    {
+      "word": "ridiculous",
+      "meanings": ["滑稽的", "可笑的"]
+    },
+    {
+      "word": "glamorous",
+      "meanings": ["有魅力的", "迷人的"]
+    },
+    {
+      "word": "mall",
+      "meanings": ["商场"]
+    },
+    {
+      "word": "chronically",
+      "meanings": ["慢性地"]
+    },
+    {
+      "word": "prolonged",
+      "meanings": ["长时间的"]
+    },
+    {
+      "word": "symptom",
+      "meanings": ["症状"]
+    },
+    {
+      "word": "compelling",
+      "meanings": ["引人注目的"]
+    },
+    {
+      "word": "immensely",
+      "meanings": ["非常", "极大地"]
+    },
+    {
+      "word": "species",
+      "meanings": ["物种"]
+    },
+    {
+      "word": "battle",
+      "meanings": ["激战", "战役"]
+    },
+    {
+      "word": "conflict",
+      "meanings": ["冲突"]
+    },
+    {
+      "word": "permeate",
+      "meanings": ["渗透"]
+    },
+    {
+      "word": "erroneous",
+      "meanings": ["错误的"]
+    },
+    {
+      "word": "compartment",
+      "meanings": ["车厢", "隔间"]
+    },
+    {
+      "word": "metropolitan",
+      "meanings": ["大都市的"]
+    },
+    {
+      "word": "grip",
+      "meanings": ["抓住"]
+    },
+    {
+      "word": "crush",
+      "meanings": ["压碎", "压榨"]
+    },
+    {
+      "word": "prior",
+      "meanings": ["先前的", "优先的"]
+    },
+    {
+      "word": "formula",
+      "meanings": ["公式"]
+    },
+    {
+      "word": "inescapable",
+      "meanings": ["不可避免的"]
+    },
+    {
+      "word": "skeptical",
+      "meanings": ["怀疑的"]
+    },
+    {
+      "word": "harness",
+      "meanings": ["利用", "控制"]
+    },
+    {
+      "word": "destination",
+      "meanings": ["目的地"]
+    },
+    {
+      "word": "vocational",
+      "meanings": ["职业的"]
+    },
+    {
+      "word": "density",
+      "meanings": ["密度"]
+    },
+    {
+      "word": "variance",
+      "meanings": ["不同"]
+    },
+    {
+      "word": "landmark",
+      "meanings": ["地标"]
+    },
+    {
+      "word": "linger",
+      "meanings": ["逗留", "徘徊"]
+    },
+    {
+      "word": "luxurious",
+      "meanings": ["奢侈的", "豪华的"]
+    },
+    {
+      "word": "astronomical",
+      "meanings": ["天文数字的"]
+    },
+    {
+      "word": "coordination",
+      "meanings": ["协调"]
+    },
+    {
+      "word": "currency",
+      "meanings": ["货币"]
+    },
+    {
+      "word": "blame",
+      "meanings": ["谴责"]
+    },
+    {
+      "word": "dismiss",
+      "meanings": ["解雇"]
+    },
+    {
+      "word": "testify",
+      "meanings": ["作证", "证明"]
+    },
+    {
+      "word": "qualify",
+      "meanings": ["使有资格"]
+    },
+    {
+      "word": "inquire",
+      "meanings": ["询问"]
+    },
+    {
+      "word": "emphasize",
+      "meanings": ["强调"]
+    },
+    {
+      "word": "overwhelming",
+      "meanings": ["压倒性的"]
+    },
+    {
+      "word": "flame",
+      "meanings": ["火焰"]
+    },
+    {
+      "word": "imitate",
+      "meanings": ["模仿"]
+    },
+    {
+      "word": "handle",
+      "meanings": ["把手"]
+    },
+    {
+      "word": "drought",
+      "meanings": ["干旱"]
+    },
+    {
+      "word": "drummer",
+      "meanings": ["鼓手"]
+    },
+    {
+      "word": "revive",
+      "meanings": ["复兴", "复苏"]
+    },
+    {
+      "word": "vulnerable",
+      "meanings": ["脆弱的", "易受影响的"]
+    },
+    {
+      "word": "spot",
+      "meanings": ["点", "地点", "发现"]
+    },
+    {
+      "word": "suppress",
+      "meanings": ["镇压", "压制"]
+    },
+    {
+      "word": "diminish",
+      "meanings": ["减少"]
+    },
+    {
+      "word": "reconcile",
+      "meanings": ["使一致", "使和解"]
+    },
+    {
+      "word": "artificial",
+      "meanings": ["人造的", "虚伪的"]
+    },
+    {
+      "word": "athletic",
+      "meanings": ["强壮的", "擅长运动的"]
+    },
+    {
+      "word": "confrontational",
+      "meanings": ["对抗的", "有敌意的"]
+    },
+    {
+      "word": "row",
+      "meanings": ["划船"]
+    },
+    {
+      "word": "navigate",
+      "meanings": ["航行", "驾驶"]
+    },
+    {
+      "word": "panic",
+      "meanings": ["惊慌"]
+    },
+    {
+      "word": "hostile",
+      "meanings": ["有敌意的"]
+    },
+    {
+      "word": "console",
+      "meanings": ["安慰"]
+    },
+    {
+      "word": "endanger",
+      "meanings": ["使……危险"]
+    },
+    {
+      "word": "prospect",
+      "meanings": ["前景"]
+    },
+    {
+      "word": "discern",
+      "meanings": ["识别"]
+    },
+    {
+      "word": "judicial",
+      "meanings": ["司法的"]
+    },
+    {
+      "word": "impair",
+      "meanings": ["损害"]
+    },
+    {
+      "word": "motel",
+      "meanings": ["汽车旅馆"]
+    },
+    {
+      "word": "signal",
+      "meanings": ["标志"]
+    },
+    {
+      "word": "therapy",
+      "meanings": ["疗法"]
+    },
+    {
+      "word": "diverse",
+      "meanings": ["各种各样的"]
+    },
+    {
+      "word": "conserve",
+      "meanings": ["保留", "保护"]
+    },
+    {
+      "word": "adaptation",
+      "meanings": ["改编版", "适应"]
+    },
+    {
+      "word": "resist",
+      "meanings": ["抵制"]
+    },
+    {
+      "word": "convince",
+      "meanings": ["使……相信"]
+    },
+    {
+      "word": "burden",
+      "meanings": ["负担"]
+    },
+    {
+      "word": "payroll",
+      "meanings": ["工资总额"]
+    },
+    {
+      "word": "unified",
+      "meanings": ["统一的"]
+    },
+    {
+      "word": "hasten",
+      "meanings": ["加速"]
+    },
+    {
+      "word": "intertwine",
+      "meanings": ["交织", "纠缠"]
+    },
+    {
+      "word": "accommodate",
+      "meanings": ["容纳", "适应"]
+    },
+    {
+      "word": "prescribe",
+      "meanings": ["开处方"]
+    },
+    {
+      "word": "construction",
+      "meanings": ["建筑"]
+    },
+    {
+      "word": "endure",
+      "meanings": ["忍受"]
+    },
+    {
+      "word": "election",
+      "meanings": ["选举"]
+    },
+    {
+      "word": "jury",
+      "meanings": ["陪审团"]
+    },
+    {
+      "word": "glory",
+      "meanings": ["光荣", "荣誉"]
+    },
+    {
+      "word": "sew",
+      "meanings": ["缝上", "缝纫"]
+    },
+    {
+      "word": "sector",
+      "meanings": ["部门"]
+    },
+    {
+      "word": "hazardous",
+      "meanings": ["危险的"]
+    },
+    {
+      "word": "deprive",
+      "meanings": ["剥夺"]
+    },
+    {
+      "word": "generous",
+      "meanings": ["慷慨的"]
+    },
+    {
+      "word": "constrain",
+      "meanings": ["限制"]
+    },
+    {
+      "word": "phenomenon",
+      "meanings": ["现象"]
+    },
+    {
+      "word": "assume",
+      "meanings": ["假定", "认为"]
+    },
+    {
+      "word": "conscientious",
+      "meanings": ["有良心的", "认真负责的"]
+    },
+    {
+      "word": "concession",
+      "meanings": ["妥协"]
+    },
+    {
+      "word": "suspect",
+      "meanings": ["怀疑", "嫌疑犯"]
+    },
+    {
+      "word": "sample",
+      "meanings": ["样本", "样品"]
+    },
+    {
+      "word": "penalty",
+      "meanings": ["惩罚"]
+    },
+    {
+      "word": "representative",
+      "meanings": ["代表"]
+    },
+    {
+      "word": "soothe",
+      "meanings": ["安慰", "减轻"]
+    },
+    {
+      "word": "entail",
+      "meanings": ["使需要", "使必须"]
+    },
+    {
+      "word": "objective",
+      "meanings": ["目标", "目的"]
+    },
+    {
+      "word": "submit",
+      "meanings": ["提交"]
+    },
+    {
+      "word": "identify",
+      "meanings": ["认出", "识别"]
+    },
+    {
+      "word": "infect",
+      "meanings": ["感染"]
+    },
+    {
+      "word": "burial",
+      "meanings": ["埋葬"]
+    },
+    {
+      "word": "genius",
+      "meanings": ["天才"]
+    },
+    {
+      "word": "submerge",
+      "meanings": ["淹没"]
+    },
+    {
+      "word": "stereotype",
+      "meanings": ["刻板印象"]
+    },
+    {
+      "word": "clarify",
+      "meanings": ["澄清", "明确"]
+    },
+    {
+      "word": "conversion",
+      "meanings": ["转变"]
+    },
+    {
+      "word": "resident",
+      "meanings": ["居民"]
+    },
+    {
+      "word": "aspect",
+      "meanings": ["方面"]
+    },
+    {
+      "word": "apologize",
+      "meanings": ["道歉"]
+    },
+    {
+      "word": "decent",
+      "meanings": ["像样的", "正派的"]
+    },
+    {
+      "word": "fixture",
+      "meanings": ["固定装置"]
+    },
+    {
+      "word": "institution",
+      "meanings": ["机构"]
+    },
+    {
+      "word": "scent",
+      "meanings": ["香味"]
+    },
+    {
+      "word": "welfare",
+      "meanings": ["幸福", "福利"]
+    },
+    {
+      "word": "subsidy",
+      "meanings": ["补助"]
+    },
+    {
+      "word": "superficial",
+      "meanings": ["表面的"]
+    },
+    {
+      "word": "private",
+      "meanings": ["私人的"]
+    },
+    {
+      "word": "conventional",
+      "meanings": ["传统的"]
+    },
+    {
+      "word": "wonder",
+      "meanings": ["想知道", "好奇"]
+    },
+    {
+      "word": "tedious",
+      "meanings": ["冗长的"]
+    },
+    {
+      "word": "subordinate",
+      "meanings": ["从属的", "次要的"]
+    },
+    {
+      "word": "frame",
+      "meanings": ["制定", "拟定"]
+    },
+    {
+      "word": "smuggle",
+      "meanings": ["走私"]
+    },
+    {
+      "word": "reimbursement",
+      "meanings": ["返还费用"]
+    },
+    {
+      "word": "disappear",
+      "meanings": ["消失"]
+    },
+    {
+      "word": "inhale",
+      "meanings": ["吸入"]
+    },
+    {
+      "word": "majority",
+      "meanings": ["大多数"]
+    },
+    {
+      "word": "memorize",
+      "meanings": ["熟记"]
+    },
+    {
+      "word": "cumulative",
+      "meanings": ["积累的"]
+    },
+    {
+      "word": "trap",
+      "meanings": ["捕捉"]
+    },
+    {
+      "word": "lofty",
+      "meanings": ["高耸的", "崇高的"]
+    },
+    {
+      "word": "clarity",
+      "meanings": ["清晰", "清楚"]
+    },
+    {
+      "word": "interact",
+      "meanings": ["互动"]
+    },
+    {
+      "word": "refine",
+      "meanings": ["提炼", "改进"]
+    },
+    {
+      "word": "confer",
+      "meanings": ["授予"]
+    },
+    {
+      "word": "anonymous",
+      "meanings": ["匿名的"]
+    },
+    {
+      "word": "commentator",
+      "meanings": ["评论员"]
+    },
+    {
+      "word": "keen",
+      "meanings": ["敏锐的", "浓厚的"]
+    },
+    {
+      "word": "enforce",
+      "meanings": ["强迫", "迫使"]
+    },
+    {
+      "word": "grocery",
+      "meanings": ["杂货店"]
+    },
+    {
+      "word": "spread",
+      "meanings": ["传播", "扩散"]
+    },
+    {
+      "word": "recruit",
+      "meanings": ["招聘"]
+    },
+    {
+      "word": "justified",
+      "meanings": ["正当的"]
+    },
+    {
+      "word": "eccentric",
+      "meanings": ["古怪的"]
+    },
+    {
+      "word": "bridge",
+      "meanings": ["架桥", "缩小"]
+    },
+    {
+      "word": "neglect",
+      "meanings": ["疏忽", "忽视"]
+    },
+    {
+      "word": "principle",
+      "meanings": ["道德原则", "原则"]
+    },
+    {
+      "word": "stain",
+      "meanings": ["污渍", "污点"]
+    },
+    {
+      "word": "encourage",
+      "meanings": ["鼓励"]
+    },
+    {
+      "word": "convincing",
+      "meanings": ["令人信服的"]
+    },
+    {
+      "word": "indiscriminately",
+      "meanings": ["不加选择地"]
+    },
+    {
+      "word": "resolute",
+      "meanings": ["坚定的"]
+    },
+    {
+      "word": "indicative",
+      "meanings": ["指示的"]
+    },
+    {
+      "word": "perish",
+      "meanings": ["死亡"]
+    },
+    {
+      "word": "philosopher",
+      "meanings": ["哲学家"]
+    },
+    {
+      "word": "recipe",
+      "meanings": ["食谱", "秘诀"]
+    },
+    {
+      "word": "excessive",
+      "meanings": ["过度的"]
+    },
+    {
+      "word": "rigor",
+      "meanings": ["严格", "严谨"]
+    },
+    {
+      "word": "deficient",
+      "meanings": ["不足的", "缺乏的"]
+    },
+    {
+      "word": "incompetence",
+      "meanings": ["无能"]
+    },
+    {
+      "word": "entitle",
+      "meanings": ["使具有资格"]
+    },
+    {
+      "word": "adventurer",
+      "meanings": ["冒险者"]
+    },
+    {
+      "word": "quicken",
+      "meanings": ["加快"]
+    },
+    {
+      "word": "divert",
+      "meanings": ["使转向", "转移注意力"]
+    },
+    {
+      "word": "recommend",
+      "meanings": ["推荐"]
+    },
+    {
+      "word": "incalculable",
+      "meanings": ["不可估量的"]
+    },
+    {
+      "word": "outcome",
+      "meanings": ["结果"]
+    },
+    {
+      "word": "scaffolding",
+      "meanings": ["脚手架"]
+    },
+    {
+      "word": "garage",
+      "meanings": ["车库"]
+    },
+    {
+      "word": "domestic",
+      "meanings": ["国内的"]
+    },
+    {
+      "word": "cultivate",
+      "meanings": ["培养"]
+    },
+    {
+      "word": "formulate",
+      "meanings": ["制定", "规划"]
+    },
+    {
+      "word": "shed",
+      "meanings": ["洒(热血)"]
+    },
+    {
+      "word": "worldwide",
+      "meanings": ["世界范围地"]
+    },
+    {
+      "word": "fuss",
+      "meanings": ["小题大做"]
+    },
+    {
+      "word": "contention",
+      "meanings": ["争论"]
+    },
+    {
+      "word": "hijack",
+      "meanings": ["劫持"]
+    },
+    {
+      "word": "dweller",
+      "meanings": ["居住者"]
+    },
+    {
+      "word": "buck",
+      "meanings": ["反对", "美元"]
+    },
+    {
+      "word": "view",
+      "meanings": ["看待"]
+    },
+    {
+      "word": "pronoun",
+      "meanings": ["代词"]
+    },
+    {
+      "word": "contribution",
+      "meanings": ["贡献"]
+    },
+    {
+      "word": "undecided",
+      "meanings": ["不确定的"]
+    },
+    {
+      "word": "restrict",
+      "meanings": ["限制"]
+    },
+    {
+      "word": "reverse",
+      "meanings": ["相反的"]
+    },
+    {
+      "word": "grasp",
+      "meanings": ["理解", "抓住"]
+    },
+    {
+      "word": "provoke",
+      "meanings": ["激怒"]
+    },
+    {
+      "word": "texture",
+      "meanings": ["质地"]
+    },
+    {
+      "word": "publicity",
+      "meanings": ["宣传"]
+    },
+    {
+      "word": "format",
+      "meanings": ["形式"]
+    },
+    {
+      "word": "indifferent",
+      "meanings": ["冷漠的"]
+    },
+    {
+      "word": "incentive",
+      "meanings": ["刺激"]
+    },
+    {
+      "word": "prejudice",
+      "meanings": ["偏见"]
+    },
+    {
+      "word": "assumption",
+      "meanings": ["假设"]
+    },
+    {
+      "word": "habitual",
+      "meanings": ["习惯的"]
+    },
+    {
+      "word": "sculpture",
+      "meanings": ["雕塑"]
+    },
+    {
+      "word": "responsibility",
+      "meanings": ["责任"]
+    },
+    {
+      "word": "manuscript",
+      "meanings": ["手稿"]
+    },
+    {
+      "word": "duplicate",
+      "meanings": ["副本", "复制品"]
+    },
+    {
+      "word": "ecosystem",
+      "meanings": ["生态系统"]
+    },
+    {
+      "word": "humorous",
+      "meanings": ["幽默的"]
+    },
+    {
+      "word": "contaminate",
+      "meanings": ["污染", "弄脏"]
+    },
+    {
+      "word": "orbit",
+      "meanings": ["轨道"]
+    },
+    {
+      "word": "evolve",
+      "meanings": ["进化"]
+    },
+    {
+      "word": "skyrocket",
+      "meanings": ["猛增"]
+    },
+    {
+      "word": "portion",
+      "meanings": ["部分"]
+    },
+    {
+      "word": "cautious",
+      "meanings": ["谨慎的"]
+    },
+    {
+      "word": "assassinate",
+      "meanings": ["刺杀", "暗杀"]
+    },
+    {
+      "word": "narrow",
+      "meanings": ["变窄", "缩小"]
+    },
+    {
+      "word": "botanical",
+      "meanings": ["植物学的"]
+    },
+    {
+      "word": "conquer",
+      "meanings": ["征服"]
+    },
+    {
+      "word": "regain",
+      "meanings": ["重新获得"]
+    },
+    {
+      "word": "composition",
+      "meanings": ["作文", "组成"]
+    },
+    {
+      "word": "stress",
+      "meanings": ["强调"]
+    },
+    {
+      "word": "yield",
+      "meanings": ["产生"]
+    },
+    {
+      "word": "spectacle",
+      "meanings": ["景象"]
+    },
+    {
+      "word": "host",
+      "meanings": ["主持"]
+    },
+    {
+      "word": "release",
+      "meanings": ["释放", "发布"]
+    },
+    {
+      "word": "malicious",
+      "meanings": ["恶毒的"]
+    },
+    {
+      "word": "prevailing",
+      "meanings": ["流行的"]
+    },
+    {
+      "word": "gratitude",
+      "meanings": ["感激"]
+    },
+    {
+      "word": "mobility",
+      "meanings": ["流动性", "活动性"]
+    },
+    {
+      "word": "ascend",
+      "meanings": ["上升"]
+    },
+    {
+      "word": "fake",
+      "meanings": ["假货"]
+    },
+    {
+      "word": "inflation",
+      "meanings": ["通货膨胀"]
+    },
+    {
+      "word": "plot",
+      "meanings": ["情节"]
+    },
+    {
+      "word": "manufacture",
+      "meanings": ["生产", "制造"]
+    },
+    {
+      "word": "criticism",
+      "meanings": ["批评"]
+    },
+    {
+      "word": "outsource",
+      "meanings": ["外包"]
+    },
+    {
+      "word": "obstacle",
+      "meanings": ["阻碍"]
+    },
+    {
+      "word": "appreciative",
+      "meanings": ["表示赞赏的"]
+    },
+    {
+      "word": "predominantly",
+      "meanings": ["占主导地位地"]
+    },
+    {
+      "word": "invasion",
+      "meanings": ["入侵"]
+    },
+    {
+      "word": "detect",
+      "meanings": ["发现"]
+    },
+    {
+      "word": "addict",
+      "meanings": ["上瘾者", "对…着迷"]
+    },
+    {
+      "word": "slash",
+      "meanings": ["猛削", "削减"]
+    },
+    {
+      "word": "cognitive",
+      "meanings": ["认知的"]
+    },
+    {
+      "word": "extinguish",
+      "meanings": ["熄灭", "使消亡"]
+    },
+    {
+      "word": "disadvantage",
+      "meanings": ["缺点", "不利条件"]
+    },
+    {
+      "word": "alien",
+      "meanings": ["陌生的"]
+    },
+    {
+      "word": "barely",
+      "meanings": ["几乎不", "仅仅"]
+    },
+    {
+      "word": "simulate",
+      "meanings": ["模拟", "模仿"]
+    },
+    {
+      "word": "prospective",
+      "meanings": ["预期的", "未来的"]
+    },
+    {
+      "word": "interaction",
+      "meanings": ["相互影响", "互动"]
+    },
+    {
+      "word": "materialize",
+      "meanings": ["实现"]
+    },
+    {
+      "word": "contribute",
+      "meanings": ["有助于", "促成", "捐赠"]
+    },
+    {
+      "word": "dishonest",
+      "meanings": ["不诚实的"]
+    },
+    {
+      "word": "appeal",
+      "meanings": ["请求", "呼吁", "上诉"]
+    },
+    {
+      "word": "applicant",
+      "meanings": ["申请者"]
+    },
+    {
+      "word": "intelligent",
+      "meanings": ["聪明的"]
+    },
+    {
+      "word": "spacious",
+      "meanings": ["宽敞的"]
+    },
+    {
+      "word": "fatal",
+      "meanings": ["致命的"]
+    },
+    {
+      "word": "counselor",
+      "meanings": ["咨询顾问"]
+    },
+    {
+      "word": "potential",
+      "meanings": ["潜在的", "潜力"]
+    },
+    {
+      "word": "assimilate",
+      "meanings": ["同化"]
+    },
+    {
+      "word": "cropland",
+      "meanings": ["农田"]
+    },
+    {
+      "word": "relieved",
+      "meanings": ["轻松的", "缓解的"]
+    },
+    {
+      "word": "compel",
+      "meanings": ["强迫"]
+    },
+    {
+      "word": "program",
+      "meanings": ["计划", "安排"]
+    },
+    {
+      "word": "capacity",
+      "meanings": ["能力", "容量"]
+    },
+    {
+      "word": "orient",
+      "meanings": ["使确定方向", "使适应"]
+    },
+    {
+      "word": "undertaking",
+      "meanings": ["任务", "事情"]
+    },
+    {
+      "word": "shift",
+      "meanings": ["转移注意力", "转变"]
+    },
+    {
+      "word": "liberation",
+      "meanings": ["解放"]
+    },
+    {
+      "word": "utterly",
+      "meanings": ["完全地", "彻底地"]
+    },
+    {
+      "word": "immense",
+      "meanings": ["巨大的"]
+    },
+    {
+      "word": "inferior",
+      "meanings": ["比……差"]
+    },
+    {
+      "word": "accrue",
+      "meanings": ["积累"]
+    },
+    {
+      "word": "genuine",
+      "meanings": ["真的", "由衷的"]
+    },
+    {
+      "word": "nominate",
+      "meanings": ["提名"]
+    },
+    {
+      "word": "distinctive",
+      "meanings": ["与众不同的"]
+    },
+    {
+      "word": "mismanagement",
+      "meanings": ["管理不当"]
+    },
+    {
+      "word": "reckon",
+      "meanings": ["认为", "评价"]
+    },
+    {
+      "word": "mask",
+      "meanings": ["面具", "掩饰", "掩盖"]
+    },
+    {
+      "word": "forge",
+      "meanings": ["伪造", "锻造"]
+    },
+    {
+      "word": "identical",
+      "meanings": ["相同的"]
+    },
+    {
+      "word": "imperial",
+      "meanings": ["帝国的"]
+    },
+    {
+      "word": "target",
+      "meanings": ["目标", "把…作为目标"]
+    },
+    {
+      "word": "disconnect",
+      "meanings": ["断开"]
+    },
+    {
+      "word": "immigrant",
+      "meanings": ["移民"]
+    },
+    {
+      "word": "unqualified",
+      "meanings": ["不合格的", "不胜任的"]
+    },
+    {
+      "word": "edit",
+      "meanings": ["编校", "编辑", "剪辑"]
+    },
+    {
+      "word": "govern",
+      "meanings": ["管理"]
+    },
+    {
+      "word": "assert",
+      "meanings": ["主张", "断言"]
+    },
+    {
+      "word": "breezy",
+      "meanings": ["轻松愉快的"]
+    },
+    {
+      "word": "hesitate",
+      "meanings": ["犹豫"]
+    },
+    {
+      "word": "presidency",
+      "meanings": ["总统任期"]
+    },
+    {
+      "word": "quota",
+      "meanings": ["配额"]
+    },
+    {
+      "word": "dropout",
+      "meanings": ["辍学学生"]
+    },
+    {
+      "word": "capture",
+      "meanings": ["逮捕", "捕捉"]
+    },
+    {
+      "word": "integrity",
+      "meanings": ["正直"]
+    },
+    {
+      "word": "flee",
+      "meanings": ["离开"]
+    },
+    {
+      "word": "certification",
+      "meanings": ["证书"]
+    },
+    {
+      "word": "instant",
+      "meanings": ["立即的"]
+    },
+    {
+      "word": "criminal",
+      "meanings": ["犯罪的", "罪犯"]
+    },
+    {
+      "word": "clue",
+      "meanings": ["线索"]
+    },
+    {
+      "word": "arrogant",
+      "meanings": ["傲慢无礼的"]
+    },
+    {
+      "word": "elevate",
+      "meanings": ["提升", "举起"]
+    },
+    {
+      "word": "expansion",
+      "meanings": ["扩张", "扩大"]
+    },
+    {
+      "word": "authority",
+      "meanings": ["权威", "当局"]
+    },
+    {
+      "word": "publicize",
+      "meanings": ["宣传"]
+    },
+    {
+      "word": "reflective",
+      "meanings": ["反映的", "反射的"]
+    },
+    {
+      "word": "quantity",
+      "meanings": ["数量"]
+    },
+    {
+      "word": "acutely",
+      "meanings": ["强烈地"]
+    },
+    {
+      "word": "isolate",
+      "meanings": ["使隔离"]
+    },
+    {
+      "word": "vigorous",
+      "meanings": ["积极的", "精力充沛的"]
+    },
+    {
+      "word": "counsel",
+      "meanings": ["建议", "忠告"]
+    },
+    {
+      "word": "vivid",
+      "meanings": ["生动的"]
+    },
+    {
+      "word": "hostility",
+      "meanings": ["敌意"]
+    },
+    {
+      "word": "collaborate",
+      "meanings": ["合作"]
+    },
+    {
+      "word": "consultation",
+      "meanings": ["商议"]
+    },
+    {
+      "word": "transition",
+      "meanings": ["过渡"]
+    },
+    {
+      "word": "deteriorate",
+      "meanings": ["恶化"]
+    },
+    {
+      "word": "pasture",
+      "meanings": ["牧场"]
+    },
+    {
+      "word": "eyewitness",
+      "meanings": ["目击者"]
+    },
+    {
+      "word": "trait",
+      "meanings": ["特点"]
+    },
+    {
+      "word": "anticipate",
+      "meanings": ["期望", "预期"]
+    },
+    {
+      "word": "numerous",
+      "meanings": ["无数的"]
+    },
+    {
+      "word": "combination",
+      "meanings": ["组合", "结合"]
+    },
+    {
+      "word": "slightly",
+      "meanings": ["轻微地"]
+    },
+    {
+      "word": "dividend",
+      "meanings": ["分红", "红利"]
+    },
+    {
+      "word": "minimal",
+      "meanings": ["最低的", "最小限度的"]
+    },
+    {
+      "word": "derail",
+      "meanings": ["脱轨"]
+    },
+    {
+      "word": "barrier",
+      "meanings": ["障碍", "阻碍"]
+    },
+    {
+      "word": "ingenuity",
+      "meanings": ["创造力"]
+    },
+    {
+      "word": "bribe",
+      "meanings": ["贿赂"]
+    },
+    {
+      "word": "guesstimate",
+      "meanings": ["大概估计"]
+    },
+    {
+      "word": "negotiation",
+      "meanings": ["协商"]
+    },
+    {
+      "word": "hardship",
+      "meanings": ["艰难"]
+    },
+    {
+      "word": "badge",
+      "meanings": ["标记", "徽章"]
+    },
+    {
+      "word": "compromise",
+      "meanings": ["妥协"]
+    },
+    {
+      "word": "excess",
+      "meanings": ["过量", "过度"]
+    },
+    {
+      "word": "descendant",
+      "meanings": ["子孙后代"]
+    },
+    {
+      "word": "fulfill",
+      "meanings": ["实现"]
+    },
+    {
+      "word": "collective",
+      "meanings": ["共同的"]
+    },
+    {
+      "word": "amend",
+      "meanings": ["修订"]
+    },
+    {
+      "word": "tangled",
+      "meanings": ["纠缠的", "复杂的"]
+    },
+    {
+      "word": "qualification",
+      "meanings": ["资格"]
+    },
+    {
+      "word": "recall",
+      "meanings": ["回忆起", "想起"]
+    },
+    {
+      "word": "adopt",
+      "meanings": ["采纳"]
+    },
+    {
+      "word": "tasteless",
+      "meanings": ["没有味道的"]
+    },
+    {
+      "word": "drown",
+      "meanings": ["溺水"]
+    },
+    {
+      "word": "tragedy",
+      "meanings": ["悲剧"]
+    },
+    {
+      "word": "circulation",
+      "meanings": ["发行量"]
+    },
+    {
+      "word": "grand",
+      "meanings": ["壮丽的", "极好的"]
+    },
+    {
+      "word": "inadequate",
+      "meanings": ["不足的"]
+    },
+    {
+      "word": "household",
+      "meanings": ["家庭", "一家人"]
+    },
+    {
+      "word": "authorization",
+      "meanings": ["授权"]
+    },
+    {
+      "word": "auxiliary",
+      "meanings": ["辅助的"]
+    },
+    {
+      "word": "adverse",
+      "meanings": ["不利的"]
+    },
+    {
+      "word": "descriptive",
+      "meanings": ["描写的", "描述的"]
+    },
+    {
+      "word": "trace",
+      "meanings": ["追踪"]
+    },
+    {
+      "word": "bloom",
+      "meanings": ["开花", "茂盛"]
+    },
+    {
+      "word": "evaluate",
+      "meanings": ["评价"]
+    },
+    {
+      "word": "humanistic",
+      "meanings": ["人文的"]
+    },
+    {
+      "word": "cozy",
+      "meanings": ["舒适的"]
+    },
+    {
+      "word": "plough",
+      "meanings": ["犁"]
+    },
+    {
+      "word": "melt",
+      "meanings": ["融化"]
+    },
+    {
+      "word": "lest",
+      "meanings": ["以免"]
+    },
+    {
+      "word": "ready",
+      "meanings": ["乐意的", "愿意的"]
+    },
+    {
+      "word": "formidable",
+      "meanings": ["可怕的", "令人敬畏的"]
+    },
+    {
+      "word": "feasible",
+      "meanings": ["可行的"]
+    },
+    {
+      "word": "regarding",
+      "meanings": ["关于"]
+    },
+    {
+      "word": "needle",
+      "meanings": ["指针", "针"]
+    },
+    {
+      "word": "dimension",
+      "meanings": ["尺寸", "维"]
+    },
+    {
+      "word": "specialize",
+      "meanings": ["专业从事"]
+    },
+    {
+      "word": "overturn",
+      "meanings": ["推翻"]
+    },
+    {
+      "word": "shrank",
+      "meanings": ["收缩"]
+    },
+    {
+      "word": "adversely",
+      "meanings": ["不利地"]
+    },
+    {
+      "word": "check",
+      "meanings": ["检查", "阻止"]
+    },
+    {
+      "word": "testimony",
+      "meanings": ["证词"]
+    },
+    {
+      "word": "rigorous",
+      "meanings": ["严格的"]
+    },
+    {
+      "word": "privileged",
+      "meanings": ["有特权的"]
+    },
+    {
+      "word": "expectation",
+      "meanings": ["期望"]
+    },
+    {
+      "word": "bias",
+      "meanings": ["偏见"]
+    },
+    {
+      "word": "lawsuit",
+      "meanings": ["诉讼"]
+    },
+    {
+      "word": "eloquent",
+      "meanings": ["口才好的", "雄辩的"]
+    },
+    {
+      "word": "shrink",
+      "meanings": ["缩减", "缩小"]
+    },
+    {
+      "word": "regulation",
+      "meanings": ["规则", "管理"]
+    },
+    {
+      "word": "alternative",
+      "meanings": ["代替品"]
+    },
+    {
+      "word": "moist",
+      "meanings": ["潮湿的"]
+    },
+    {
+      "word": "surpass",
+      "meanings": ["超过"]
+    },
+    {
+      "word": "fabric",
+      "meanings": ["布料"]
+    },
+    {
+      "word": "distinction",
+      "meanings": ["区分"]
+    },
+    {
+      "word": "eradicate",
+      "meanings": ["根除"]
+    },
+    {
+      "word": "brilliant",
+      "meanings": ["才华横溢的", "极好的"]
+    },
+    {
+      "word": "redefine",
+      "meanings": ["重新定义"]
+    },
+    {
+      "word": "arm",
+      "meanings": ["装备", "武装"]
+    },
+    {
+      "word": "intensely",
+      "meanings": ["强烈地"]
+    },
+    {
+      "word": "desperate",
+      "meanings": ["绝望的", "不顾一切的"]
+    },
+    {
+      "word": "sexism",
+      "meanings": ["性别歧视"]
+    },
+    {
+      "word": "bruise",
+      "meanings": ["使碰伤", "擦伤"]
+    },
+    {
+      "word": "prominent",
+      "meanings": ["卓越的", "突出的"]
+    },
+    {
+      "word": "comprehensive",
+      "meanings": ["综合的", "全面的"]
+    },
+    {
+      "word": "forecast",
+      "meanings": ["预报", "预测"]
+    },
+    {
+      "word": "champion",
+      "meanings": ["支持", "拥护"]
+    },
+    {
+      "word": "specification",
+      "meanings": ["说明"]
+    },
+    {
+      "word": "layout",
+      "meanings": ["布局", "设计"]
+    },
+    {
+      "word": "rally",
+      "meanings": ["集会"]
+    },
+    {
+      "word": "romantic",
+      "meanings": ["爱情的"]
+    },
+    {
+      "word": "deviate",
+      "meanings": ["偏离"]
+    },
+    {
+      "word": "insufficient",
+      "meanings": ["不足的"]
+    },
+    {
+      "word": "boost",
+      "meanings": ["提高"]
+    },
+    {
+      "word": "scandal",
+      "meanings": ["丑闻"]
+    },
+    {
+      "word": "confine",
+      "meanings": ["限制"]
+    },
+    {
+      "word": "conspicuous",
+      "meanings": ["显著的"]
+    },
+    {
+      "word": "significant",
+      "meanings": ["重要的"]
+    },
+    {
+      "word": "fresh",
+      "meanings": ["新颖的", "新奇的"]
+    },
+    {
+      "word": "indulge",
+      "meanings": ["放纵"]
+    },
+    {
+      "word": "instinctively",
+      "meanings": ["本能地"]
+    },
+    {
+      "word": "complement",
+      "meanings": ["补充"]
+    },
+    {
+      "word": "content",
+      "meanings": ["满意的"]
+    },
+    {
+      "word": "squalor",
+      "meanings": ["肮脏"]
+    },
+    {
+      "word": "fatigue",
+      "meanings": ["疲惫"]
+    },
+    {
+      "word": "awesome",
+      "meanings": ["令人敬畏的"]
+    },
+    {
+      "word": "responsive",
+      "meanings": ["灵敏的", "反应的"]
+    },
+    {
+      "word": "echo",
+      "meanings": ["随声附和", "发出回声"]
+    },
+    {
+      "word": "division",
+      "meanings": ["分歧"]
+    },
+    {
+      "word": "gender",
+      "meanings": ["性别"]
+    },
+    {
+      "word": "correlation",
+      "meanings": ["相关", "关联"]
+    },
+    {
+      "word": "casualty",
+      "meanings": ["伤亡人数"]
+    },
+    {
+      "word": "appropriate",
+      "meanings": ["适当的"]
+    },
+    {
+      "word": "subtle",
+      "meanings": ["微妙的"]
+    },
+    {
+      "word": "critical",
+      "meanings": ["批评的", "关键的"]
+    },
+    {
+      "word": "alternatively",
+      "meanings": ["二选一地"]
+    },
+    {
+      "word": "intimate",
+      "meanings": ["亲密的"]
+    },
+    {
+      "word": "disengagement",
+      "meanings": ["分离"]
+    },
+    {
+      "word": "lounge",
+      "meanings": ["休息室"]
+    },
+    {
+      "word": "gesture",
+      "meanings": ["姿势", "手势"]
+    },
+    {
+      "word": "script",
+      "meanings": ["脚本", "剧本"]
+    },
+    {
+      "word": "prestige",
+      "meanings": ["名声", "声望"]
+    },
+    {
+      "word": "awkward",
+      "meanings": ["尴尬的", "棘手的", "笨拙的"]
+    },
+    {
+      "word": "entrepreneur",
+      "meanings": ["企业家"]
+    },
+    {
+      "word": "automatic",
+      "meanings": ["自动的"]
+    },
+    {
+      "word": "thrive",
+      "meanings": ["繁荣", "兴旺"]
+    },
+    {
+      "word": "enrich",
+      "meanings": ["丰富", "使富裕"]
+    },
+    {
+      "word": "chew",
+      "meanings": ["咀嚼", "深思"]
+    },
+    {
+      "word": "vehicle",
+      "meanings": ["车辆"]
+    },
+    {
+      "word": "intriguing",
+      "meanings": ["有趣的"]
+    },
+    {
+      "word": "segregation",
+      "meanings": ["隔离"]
+    },
+    {
+      "word": "hurl",
+      "meanings": ["猛投"]
+    },
+    {
+      "word": "hatch",
+      "meanings": ["孵化"]
+    },
+    {
+      "word": "disservice",
+      "meanings": ["危害"]
+    },
+    {
+      "word": "variation",
+      "meanings": ["变化"]
+    },
+    {
+      "word": "enormous",
+      "meanings": ["巨大的"]
+    },
+    {
+      "word": "scare",
+      "meanings": ["恐吓", "惊恐"]
+    },
+    {
+      "word": "alphabetical",
+      "meanings": ["按字母表顺序的"]
+    },
+    {
+      "word": "conclusive",
+      "meanings": ["得出结论的"]
+    },
+    {
+      "word": "epidemic",
+      "meanings": ["流行病"]
+    },
+    {
+      "word": "solid",
+      "meanings": ["坚实的", "稳固的"]
+    },
+    {
+      "word": "clause",
+      "meanings": ["条款"]
+    },
+    {
+      "word": "attendant",
+      "meanings": ["服务人员"]
+    },
+    {
+      "word": "collapse",
+      "meanings": ["坍塌", "崩塌"]
+    },
+    {
+      "word": "dispatch",
+      "meanings": ["发送", "派遣"]
+    },
+    {
+      "word": "shrug",
+      "meanings": ["耸肩"]
+    },
+    {
+      "word": "redundant",
+      "meanings": ["失业的", "过剩的"]
+    },
+    {
+      "word": "alert",
+      "meanings": ["机警的", "提醒"]
+    },
+    {
+      "word": "deficit",
+      "meanings": ["赤字"]
+    },
+    {
+      "word": "restructure",
+      "meanings": ["调整", "重建"]
+    },
+    {
+      "word": "tap",
+      "meanings": ["轻敲"]
+    },
+    {
+      "word": "simultaneous",
+      "meanings": ["同步的"]
+    },
+    {
+      "word": "arise",
+      "meanings": ["出现"]
+    },
+    {
+      "word": "wildlife",
+      "meanings": ["野生动物"]
+    },
+    {
+      "word": "overwhelm",
+      "meanings": ["压倒", "战胜"]
+    },
+    {
+      "word": "motivation",
+      "meanings": ["动力", "积极性"]
+    },
+    {
+      "word": "delicate",
+      "meanings": ["细微的", "精细的"]
+    },
+    {
+      "word": "remarkable",
+      "meanings": ["显著的", "杰出的"]
+    },
+    {
+      "word": "slavery",
+      "meanings": ["奴隶制度"]
+    },
+    {
+      "word": "untreated",
+      "meanings": ["未经处理的"]
+    },
+    {
+      "word": "suspicious",
+      "meanings": ["怀疑的"]
+    },
+    {
+      "word": "ancient",
+      "meanings": ["古代的"]
+    },
+    {
+      "word": "distort",
+      "meanings": ["歪曲", "扭曲"]
+    },
+    {
+      "word": "skip",
+      "meanings": ["跳过"]
+    },
+    {
+      "word": "wishful",
+      "meanings": ["一厢情愿的"]
+    },
+    {
+      "word": "entrepreneurship",
+      "meanings": ["企业管理"]
+    },
+    {
+      "word": "bride",
+      "meanings": ["新娘"]
+    },
+    {
+      "word": "unfold",
+      "meanings": ["展开"]
+    },
+    {
+      "word": "interference",
+      "meanings": ["干涉"]
+    },
+    {
+      "word": "assault",
+      "meanings": ["攻击"]
+    },
+    {
+      "word": "shareholder",
+      "meanings": ["股东"]
+    },
+    {
+      "word": "breakthrough",
+      "meanings": ["突破性进展"]
+    },
+    {
+      "word": "footnote",
+      "meanings": ["注脚"]
+    },
+    {
+      "word": "applicable",
+      "meanings": ["可应用的"]
+    },
+    {
+      "word": "controversial",
+      "meanings": ["受到争议的"]
+    },
+    {
+      "word": "inherit",
+      "meanings": ["继承"]
+    },
+    {
+      "word": "facilitate",
+      "meanings": ["使便利", "促进"]
+    },
+    {
+      "word": "manifest",
+      "meanings": ["表明"]
+    },
+    {
+      "word": "fiscal",
+      "meanings": ["财政的"]
+    },
+    {
+      "word": "gown",
+      "meanings": ["长袍"]
+    },
+    {
+      "word": "rate",
+      "meanings": ["费用"]
+    },
+    {
+      "word": "mortality",
+      "meanings": ["死亡率"]
+    },
+    {
+      "word": "decline",
+      "meanings": ["拒绝"]
+    },
+    {
+      "word": "mournful",
+      "meanings": ["悲哀的", "令人惋惜的"]
+    },
+    {
+      "word": "paradox",
+      "meanings": ["悖论"]
+    },
+    {
+      "word": "simultaneously",
+      "meanings": ["同步地", "同时地"]
+    },
+    {
+      "word": "strategy",
+      "meanings": ["策略"]
+    },
+    {
+      "word": "literacy",
+      "meanings": ["识字", "有文化"]
+    },
+    {
+      "word": "apathy",
+      "meanings": ["冷漠"]
+    },
+    {
+      "word": "boom",
+      "meanings": ["繁荣"]
+    },
+    {
+      "word": "oblige",
+      "meanings": ["迫使"]
+    },
+    {
+      "word": "incompatibility",
+      "meanings": ["不兼容"]
+    },
+    {
+      "word": "commerce",
+      "meanings": ["商业"]
+    },
+    {
+      "word": "attribute",
+      "meanings": ["归因于"]
+    },
+    {
+      "word": "cafeteria",
+      "meanings": ["自助餐厅"]
+    },
+    {
+      "word": "cripple",
+      "meanings": ["残疾", "跛子"]
+    },
+    {
+      "word": "shuttle",
+      "meanings": ["航天飞机"]
+    },
+    {
+      "word": "nightmare",
+      "meanings": ["噩梦"]
+    },
+    {
+      "word": "startle",
+      "meanings": ["使惊讶"]
+    },
+    {
+      "word": "debris",
+      "meanings": ["残骸", "碎片"]
+    },
+    {
+      "word": "assemble",
+      "meanings": ["收集", "组装"]
+    },
+    {
+      "word": "perception",
+      "meanings": ["看法", "意识"]
+    },
+    {
+      "word": "coastal",
+      "meanings": ["海滨的"]
+    },
+    {
+      "word": "desert",
+      "meanings": ["放弃", "抛弃"]
+    },
+    {
+      "word": "peer",
+      "meanings": ["同龄人"]
+    },
+    {
+      "word": "embody",
+      "meanings": ["体现"]
+    },
+    {
+      "word": "sympathetic",
+      "meanings": ["同情的"]
+    },
+    {
+      "word": "backup",
+      "meanings": ["后补", "援助"]
+    },
+    {
+      "word": "notably",
+      "meanings": ["显著地", "尤其"]
+    },
+    {
+      "word": "exploit",
+      "meanings": ["开发", "开采"]
+    },
+    {
+      "word": "poetry",
+      "meanings": ["诗歌"]
+    },
+    {
+      "word": "discriminate",
+      "meanings": ["歧视", "区别"]
+    },
+    {
+      "word": "readjust",
+      "meanings": ["重新调整"]
+    },
+    {
+      "word": "slight",
+      "meanings": ["轻微的"]
+    },
+    {
+      "word": "strip",
+      "meanings": ["狭长的一块"]
+    },
+    {
+      "word": "tackle",
+      "meanings": ["解决", "处理"]
+    },
+    {
+      "word": "steady",
+      "meanings": ["稳定的"]
+    },
+    {
+      "word": "minority",
+      "meanings": ["少数", "少数民族"]
+    },
+    {
+      "word": "aspirational",
+      "meanings": ["渴望成功的"]
+    },
+    {
+      "word": "discipline",
+      "meanings": ["训练", "管教"]
+    },
+    {
+      "word": "threshold",
+      "meanings": ["门槛"]
+    },
+    {
+      "word": "soar",
+      "meanings": ["高飞"]
+    },
+    {
+      "word": "uneven",
+      "meanings": ["不均衡的"]
+    },
+    {
+      "word": "crucial",
+      "meanings": ["关键的"]
+    },
+    {
+      "word": "athletics",
+      "meanings": ["体育运动"]
+    },
+    {
+      "word": "needy",
+      "meanings": ["贫穷的"]
+    },
+    {
+      "word": "enthusiastic",
+      "meanings": ["热情的"]
+    },
+    {
+      "word": "trigger",
+      "meanings": ["引发", "引起"]
+    },
+    {
+      "word": "essential",
+      "meanings": ["必须的", "本质的"]
+    },
+    {
+      "word": "agenda",
+      "meanings": ["议程"]
+    },
+    {
+      "word": "owe",
+      "meanings": ["欠钱"]
+    },
+    {
+      "word": "justice",
+      "meanings": ["公平"]
+    },
+    {
+      "word": "donor",
+      "meanings": ["捐赠者"]
+    },
+    {
+      "word": "convict",
+      "meanings": ["证明……有罪"]
+    },
+    {
+      "word": "underestimate",
+      "meanings": ["低估"]
+    },
+    {
+      "word": "flat",
+      "meanings": ["平的", "公寓"]
+    },
+    {
+      "word": "confidential",
+      "meanings": ["机密的"]
+    },
+    {
+      "word": "unexpected",
+      "meanings": ["意想不到的"]
+    },
+    {
+      "word": "vitamin",
+      "meanings": ["维他命"]
+    },
+    {
+      "word": "jeopardize",
+      "meanings": ["危害", "危及"]
+    },
+    {
+      "word": "disproportionately",
+      "meanings": ["比例不均地"]
+    },
+    {
+      "word": "bacteria",
+      "meanings": ["细菌"]
+    },
+    {
+      "word": "bump",
+      "meanings": ["颠簸", "撞上"]
+    },
+    {
+      "word": "existence",
+      "meanings": ["存在", "生存"]
+    },
+    {
+      "word": "sweep",
+      "meanings": ["扫除", "清除"]
+    },
+    {
+      "word": "shrewd",
+      "meanings": ["精明的"]
+    },
+    {
+      "word": "illuminate",
+      "meanings": ["阐释", "阐明"]
+    },
+    {
+      "word": "realm",
+      "meanings": ["领域", "方面"]
+    },
+    {
+      "word": "blueprint",
+      "meanings": ["蓝图", "设计图"]
+    },
+    {
+      "word": "pension",
+      "meanings": ["养老金"]
+    },
+    {
+      "word": "administration",
+      "meanings": ["管理", "政府"]
+    },
+    {
+      "word": "track",
+      "meanings": ["追踪", "轨迹", "踪迹"]
+    },
+    {
+      "word": "ponder",
+      "meanings": ["仔细考虑"]
+    },
+    {
+      "word": "paradise",
+      "meanings": ["天堂"]
+    },
+    {
+      "word": "ethnic",
+      "meanings": ["种族的"]
+    },
+    {
+      "word": "accelerate",
+      "meanings": ["加速"]
+    },
+    {
+      "word": "bitter",
+      "meanings": ["痛苦的"]
+    },
+    {
+      "word": "ambition",
+      "meanings": ["野心", "报复"]
+    },
+    {
+      "word": "confess",
+      "meanings": ["承认"]
+    },
+    {
+      "word": "extent",
+      "meanings": ["程度"]
+    },
+    {
+      "word": "accountant",
+      "meanings": ["会计"]
+    },
+    {
+      "word": "sheer",
+      "meanings": ["纯粹的"]
+    },
+    {
+      "word": "deliberate",
+      "meanings": ["故意的"]
+    },
+    {
+      "word": "pave",
+      "meanings": ["铺路"]
+    },
+    {
+      "word": "measure",
+      "meanings": ["措施"]
+    },
+    {
+      "word": "potentially",
+      "meanings": ["潜在地"]
+    },
+    {
+      "word": "remove",
+      "meanings": ["消除", "移除"]
+    },
+    {
+      "word": "allergic",
+      "meanings": ["过敏的"]
+    },
+    {
+      "word": "available",
+      "meanings": ["可获得的", "可利用的"]
+    },
+    {
+      "word": "initial",
+      "meanings": ["初步的", "最初的"]
+    },
+    {
+      "word": "consensus",
+      "meanings": ["共识", "一致"]
+    },
+    {
+      "word": "opponent",
+      "meanings": ["反对者"]
+    },
+    {
+      "word": "modify",
+      "meanings": ["改变"]
+    },
+    {
+      "word": "signify",
+      "meanings": ["表明", "象征"]
+    },
+    {
+      "word": "accumulate",
+      "meanings": ["积累"]
+    },
+    {
+      "word": "mining",
+      "meanings": ["采矿业"]
+    },
+    {
+      "word": "violent",
+      "meanings": ["暴力的"]
+    },
+    {
+      "word": "adversity",
+      "meanings": ["逆境"]
+    },
+    {
+      "word": "dynamics",
+      "meanings": ["动力学"]
+    },
+    {
+      "word": "chaos",
+      "meanings": ["混乱"]
+    },
+    {
+      "word": "persistent",
+      "meanings": ["持续的", "坚持不懈的"]
+    },
+    {
+      "word": "ritual",
+      "meanings": ["仪式"]
+    },
+    {
+      "word": "criteria",
+      "meanings": ["标准"]
+    },
+    {
+      "word": "impose",
+      "meanings": ["强加于"]
+    },
+    {
+      "word": "untiring",
+      "meanings": ["不知疲倦的"]
+    },
+    {
+      "word": "contrary",
+      "meanings": ["相反的"]
+    },
+    {
+      "word": "nutritious",
+      "meanings": ["有营养的"]
+    },
+    {
+      "word": "anxiety",
+      "meanings": ["焦虑"]
+    },
+    {
+      "word": "rewarding",
+      "meanings": ["有意义的"]
+    },
+    {
+      "word": "straightforward",
+      "meanings": ["直接的"]
+    },
+    {
+      "word": "descent",
+      "meanings": ["血统", "后裔"]
+    },
+    {
+      "word": "hospitality",
+      "meanings": ["友好"]
+    },
+    {
+      "word": "stuff",
+      "meanings": ["材料", "东西"]
+    },
+    {
+      "word": "reflect",
+      "meanings": ["反映", "反射", "思考"]
+    },
+    {
+      "word": "carpentry",
+      "meanings": ["木工活"]
+    },
+    {
+      "word": "decode",
+      "meanings": ["解码"]
+    },
+    {
+      "word": "flaw",
+      "meanings": ["缺点", "瑕疵"]
+    },
+    {
+      "word": "reveal",
+      "meanings": ["揭露"]
+    },
+    {
+      "word": "tutor",
+      "meanings": ["辅导"]
+    },
+    {
+      "word": "accustom",
+      "meanings": ["使习惯"]
+    },
+    {
+      "word": "acquaintance",
+      "meanings": ["熟人"]
+    },
+    {
+      "word": "distribution",
+      "meanings": ["分布", "分配"]
+    },
+    {
+      "word": "trend",
+      "meanings": ["趋势"]
+    },
+    {
+      "word": "irritate",
+      "meanings": ["激怒"]
+    },
+    {
+      "word": "intrinsic",
+      "meanings": ["本质的", "固有的"]
+    },
+    {
+      "word": "deem",
+      "meanings": ["认为"]
+    },
+    {
+      "word": "arouse",
+      "meanings": ["唤起"]
+    },
+    {
+      "word": "suburban",
+      "meanings": ["郊区的"]
+    },
+    {
+      "word": "pursue",
+      "meanings": ["追求"]
+    },
+    {
+      "word": "ideology",
+      "meanings": ["意识形态"]
+    },
+    {
+      "word": "layman",
+      "meanings": ["门外汉"]
+    },
+    {
+      "word": "instantaneous",
+      "meanings": ["即时的", "瞬间的"]
+    },
+    {
+      "word": "seasick",
+      "meanings": ["晕船的"]
+    },
+    {
+      "word": "lack",
+      "meanings": ["缺少"]
+    },
+    {
+      "word": "exaggerate",
+      "meanings": ["夸张"]
+    },
+    {
+      "word": "magnify",
+      "meanings": ["放大"]
+    },
+    {
+      "word": "utilization",
+      "meanings": ["利用"]
+    },
+    {
+      "word": "twist",
+      "meanings": ["扭曲"]
+    },
+    {
+      "word": "expedition",
+      "meanings": ["探险", "远征"]
+    },
+    {
+      "word": "switch",
+      "meanings": ["转换"]
+    },
+    {
+      "word": "inheritance",
+      "meanings": ["继承", "遗产"]
+    },
+    {
+      "word": "sponsor",
+      "meanings": ["赞助", "赞助商"]
+    },
+    {
+      "word": "deterioration",
+      "meanings": ["恶化", "退化"]
+    },
+    {
+      "word": "ongoing",
+      "meanings": ["持续的", "不间断的"]
+    },
+    {
+      "word": "refreshing",
+      "meanings": ["新鲜的"]
+    },
+    {
+      "word": "incidentally",
+      "meanings": ["顺便地"]
+    },
+    {
+      "word": "imprison",
+      "meanings": ["监禁"]
+    },
+    {
+      "word": "present",
+      "meanings": ["呈现", "给予"]
+    },
+    {
+      "word": "uninformed",
+      "meanings": ["无知的", "未受过教育的"]
+    },
+    {
+      "word": "overlap",
+      "meanings": ["重叠"]
+    },
+    {
+      "word": "slim",
+      "meanings": ["苗条的"]
+    },
+    {
+      "word": "urban",
+      "meanings": ["城市的", "都市的"]
+    },
+    {
+      "word": "rank",
+      "meanings": ["排列", "分级"]
+    },
+    {
+      "word": "untrustworthy",
+      "meanings": ["不值得信任的"]
+    },
+    {
+      "word": "automatically",
+      "meanings": ["自动地", "不经思考地"]
+    },
+    {
+      "word": "accountable",
+      "meanings": ["应负责的", "有责任的"]
+    },
+    {
+      "word": "collaborative",
+      "meanings": ["合作的"]
+    },
+    {
+      "word": "practice",
+      "meanings": ["做法"]
+    },
+    {
+      "word": "diligence",
+      "meanings": ["勤奋"]
+    },
+    {
+      "word": "victim",
+      "meanings": ["受害者"]
+    },
+    {
+      "word": "urge",
+      "meanings": ["催促"]
+    },
+    {
+      "word": "fertility",
+      "meanings": ["多产", "肥沃"]
+    },
+    {
+      "word": "foundation",
+      "meanings": ["基金会"]
+    },
+    {
+      "word": "reception",
+      "meanings": ["接待"]
+    },
+    {
+      "word": "elite",
+      "meanings": ["精英"]
+    },
+    {
+      "word": "suicide",
+      "meanings": ["自杀"]
+    },
+    {
+      "word": "incompetent",
+      "meanings": ["无能力的", "不胜任的"]
+    },
+    {
+      "word": "tremendous",
+      "meanings": ["巨大的"]
+    },
+    {
+      "word": "recyclable",
+      "meanings": ["可回收利用的"]
+    },
+    {
+      "word": "visualize",
+      "meanings": ["想象"]
+    },
+    {
+      "word": "exertion",
+      "meanings": ["运用"]
+    },
+    {
+      "word": "slack",
+      "meanings": ["疲软的", "萧条的"]
+    },
+    {
+      "word": "rigid",
+      "meanings": ["严格的"]
+    },
+    {
+      "word": "organic",
+      "meanings": ["有机的"]
+    },
+    {
+      "word": "reproduction",
+      "meanings": ["繁殖"]
+    },
+    {
+      "word": "strap",
+      "meanings": ["用带绑住"]
+    },
+    {
+      "word": "precision",
+      "meanings": ["精确性"]
+    },
+    {
+      "word": "standardize",
+      "meanings": ["标准化"]
+    },
+    {
+      "word": "aptly",
+      "meanings": ["适当地"]
+    },
+    {
+      "word": "promotion",
+      "meanings": ["促销"]
+    },
+    {
+      "word": "paralyze",
+      "meanings": ["瘫痪", "麻痹"]
+    },
+    {
+      "word": "degeneration",
+      "meanings": ["退化", "变质"]
+    },
+    {
+      "word": "refrain",
+      "meanings": ["抑制", "避免"]
+    },
+    {
+      "word": "flavor",
+      "meanings": ["口味"]
+    },
+    {
+      "word": "adventure",
+      "meanings": ["冒险"]
+    },
+    {
+      "word": "agonize",
+      "meanings": ["使痛苦"]
+    },
+    {
+      "word": "mount",
+      "meanings": ["增加", "装配"]
+    },
+    {
+      "word": "oppose",
+      "meanings": ["反对"]
+    },
+    {
+      "word": "justifiable",
+      "meanings": ["理所应当的"]
+    },
+    {
+      "word": "promote",
+      "meanings": ["促进"]
+    },
+    {
+      "word": "renewable",
+      "meanings": ["可再生的"]
+    },
+    {
+      "word": "hypothesis",
+      "meanings": ["假设", "假说"]
+    },
+    {
+      "word": "presentation",
+      "meanings": ["展示", "讲话"]
+    },
+    {
+      "word": "cater",
+      "meanings": ["迎合"]
+    },
+    {
+      "word": "unbiased",
+      "meanings": ["公正的"]
+    },
+    {
+      "word": "immersive",
+      "meanings": ["沉浸的", "身临其境的"]
+    },
+    {
+      "word": "domain",
+      "meanings": ["领域"]
+    },
+    {
+      "word": "primitive",
+      "meanings": ["原始的", "简单的"]
+    },
+    {
+      "word": "urgent",
+      "meanings": ["急迫的"]
+    },
+    {
+      "word": "threaten",
+      "meanings": ["威胁"]
+    },
+    {
+      "word": "throne",
+      "meanings": ["王位"]
+    },
+    {
+      "word": "underfunded",
+      "meanings": ["资金不足的"]
+    },
+    {
+      "word": "jail",
+      "meanings": ["监狱"]
+    },
+    {
+      "word": "assessment",
+      "meanings": ["评估", "评价"]
+    },
+    {
+      "word": "frustrate",
+      "meanings": ["使挫败", "使沮丧"]
+    },
+    {
+      "word": "abolition",
+      "meanings": ["废除"]
+    },
+    {
+      "word": "detective",
+      "meanings": ["侦探", "警探"]
+    },
+    {
+      "word": "skyscraper",
+      "meanings": ["摩天大楼"]
+    },
+    {
+      "word": "corruption",
+      "meanings": ["腐败"]
+    },
+    {
+      "word": "intolerant",
+      "meanings": ["无法容忍的"]
+    },
+    {
+      "word": "pierce",
+      "meanings": ["刺穿"]
+    },
+    {
+      "word": "compensate",
+      "meanings": ["弥补"]
+    },
+    {
+      "word": "gap",
+      "meanings": ["差距"]
+    },
+    {
+      "word": "worship",
+      "meanings": ["崇拜", "喜爱"]
+    },
+    {
+      "word": "gallery",
+      "meanings": ["美术馆"]
+    },
+    {
+      "word": "coach",
+      "meanings": ["教练"]
+    },
+    {
+      "word": "cancel",
+      "meanings": ["取消"]
+    },
+    {
+      "word": "strike",
+      "meanings": ["罢工"]
+    },
+    {
+      "word": "rebellion",
+      "meanings": ["叛逆"]
+    },
+    {
+      "word": "distract",
+      "meanings": ["分心", "分散注意"]
+    },
+    {
+      "word": "imperative",
+      "meanings": ["必须的", "必要的"]
+    },
+    {
+      "word": "geology",
+      "meanings": ["地质学"]
+    },
+    {
+      "word": "sway",
+      "meanings": ["影响"]
+    },
+    {
+      "word": "costume",
+      "meanings": ["服装"]
+    },
+    {
+      "word": "manual",
+      "meanings": ["手工的", "体力的"]
+    },
+    {
+      "word": "quantifiable",
+      "meanings": ["可量化的"]
+    },
+    {
+      "word": "expenditure",
+      "meanings": ["费用", "花销"]
+    },
+    {
+      "word": "breed",
+      "meanings": ["繁殖", "导致"]
+    },
+    {
+      "word": "emerge",
+      "meanings": ["出现"]
+    },
+    {
+      "word": "noted",
+      "meanings": ["著名的", "知名的"]
+    },
+    {
+      "word": "position",
+      "meanings": ["安放", "位置", "职位", "形势", "主张"]
+    },
+    {
+      "word": "extinction",
+      "meanings": ["灭绝"]
+    },
+    {
+      "word": "receptionist",
+      "meanings": ["接待员"]
+    },
+    {
+      "word": "reckless",
+      "meanings": ["鲁莽的"]
+    },
+    {
+      "word": "abuse",
+      "meanings": ["虐待", "滥用"]
+    },
+    {
+      "word": "accuse",
+      "meanings": ["指控"]
+    },
+    {
+      "word": "biochemistry",
+      "meanings": ["生物化学"]
+    },
+    {
+      "word": "optimism",
+      "meanings": ["乐观"]
+    },
+    {
+      "word": "predict",
+      "meanings": ["预测"]
+    },
+    {
+      "word": "notoriously",
+      "meanings": ["臭名昭著地"]
+    },
+    {
+      "word": "board",
+      "meanings": ["董事会"]
+    },
+    {
+      "word": "pose",
+      "meanings": ["形成"]
+    },
+    {
+      "word": "memorandum",
+      "meanings": ["备忘录"]
+    },
+    {
+      "word": "puzzling",
+      "meanings": ["迷惑的", "困扰的"]
+    },
+    {
+      "word": "reliable",
+      "meanings": ["可靠的"]
+    },
+    {
+      "word": "replacement",
+      "meanings": ["代替"]
+    },
+    {
+      "word": "reinforce",
+      "meanings": ["增强", "强化"]
+    },
+    {
+      "word": "impart",
+      "meanings": ["传授", "教授"]
+    },
+    {
+      "word": "diversity",
+      "meanings": ["多样性"]
+    },
+    {
+      "word": "occupation",
+      "meanings": ["职业"]
+    },
+    {
+      "word": "intense",
+      "meanings": ["激烈的", "强烈的"]
+    },
+    {
+      "word": "dramatically",
+      "meanings": ["大幅度地", "戏剧性地"]
+    },
+    {
+      "word": "awareness",
+      "meanings": ["意识"]
+    },
+    {
+      "word": "virtually",
+      "meanings": ["几乎"]
+    },
+    {
+      "word": "maturity",
+      "meanings": ["成熟"]
+    },
+    {
+      "word": "rare",
+      "meanings": ["罕见的", "稀少的"]
+    },
+    {
+      "word": "curb",
+      "meanings": ["限制", "控制"]
+    },
+    {
+      "word": "favor",
+      "meanings": ["恩惠", "善意的行为"]
+    },
+    {
+      "word": "productivity",
+      "meanings": ["生产力"]
+    },
+    {
+      "word": "mechanism",
+      "meanings": ["机制"]
+    },
+    {
+      "word": "helicopter",
+      "meanings": ["直升飞机"]
+    },
+    {
+      "word": "validity",
+      "meanings": ["有效性", "真实性"]
+    },
+    {
+      "word": "relevant",
+      "meanings": ["相关的"]
+    },
+    {
+      "word": "miracle",
+      "meanings": ["奇迹"]
+    },
+    {
+      "word": "fertilizer",
+      "meanings": ["肥料"]
+    },
+    {
+      "word": "shady",
+      "meanings": ["阴凉的"]
+    },
+    {
+      "word": "poll",
+      "meanings": ["民意测验"]
+    },
+    {
+      "word": "countermeasure",
+      "meanings": ["对策"]
+    },
+    {
+      "word": "worldly",
+      "meanings": ["世间的", "尘世的"]
+    },
+    {
+      "word": "legislator",
+      "meanings": ["立法者"]
+    },
+    {
+      "word": "campaign",
+      "meanings": ["活动"]
+    },
+    {
+      "word": "odds",
+      "meanings": ["可能性"]
+    },
+    {
+      "word": "shepherd",
+      "meanings": ["引导", "带领"]
+    },
+    {
+      "word": "schedule",
+      "meanings": ["计划表"]
+    },
+    {
+      "word": "access",
+      "meanings": ["取得", "获取"]
+    },
+    {
+      "word": "owl",
+      "meanings": ["猫头鹰"]
+    },
+    {
+      "word": "interpret",
+      "meanings": ["口译", "解释"]
+    },
+    {
+      "word": "intervention",
+      "meanings": ["干涉"]
+    },
+    {
+      "word": "bemoan",
+      "meanings": ["抱怨", "惋惜"]
+    },
+    {
+      "word": "determine",
+      "meanings": ["决定"]
+    },
+    {
+      "word": "incur",
+      "meanings": ["引起", "导致"]
+    },
+    {
+      "word": "literal",
+      "meanings": ["字面的"]
+    },
+    {
+      "word": "proposition",
+      "meanings": ["提议", "主题"]
+    },
+    {
+      "word": "feasibility",
+      "meanings": ["可行"]
+    },
+    {
+      "word": "destructive",
+      "meanings": ["破坏性的", "毁灭性的"]
+    },
+    {
+      "word": "denationalize",
+      "meanings": ["使非国有化"]
+    },
+    {
+      "word": "resort",
+      "meanings": ["度假胜地"]
+    },
+    {
+      "word": "engage",
+      "meanings": ["忙于", "从事", "雇佣"]
+    },
+    {
+      "word": "disarm",
+      "meanings": ["解除", "消除"]
+    },
+    {
+      "word": "approximately",
+      "meanings": ["大约"]
+    },
+    {
+      "word": "cover",
+      "meanings": ["遮盖", "遮蔽"]
+    },
+    {
+      "word": "validation",
+      "meanings": ["证实"]
+    },
+    {
+      "word": "widespread",
+      "meanings": ["广泛传播的"]
+    },
+    {
+      "word": "unethical",
+      "meanings": ["不道德的"]
+    },
+    {
+      "word": "withdraw",
+      "meanings": ["撤销", "撤退"]
+    },
+    {
+      "word": "relay",
+      "meanings": ["接替", "转播"]
+    },
+    {
+      "word": "fluently",
+      "meanings": ["流利地"]
+    },
+    {
+      "word": "mysteriously",
+      "meanings": ["神秘地"]
+    },
+    {
+      "word": "hinder",
+      "meanings": ["阻碍"]
+    },
+    {
+      "word": "session",
+      "meanings": ["会议", "学年"]
+    },
+    {
+      "word": "postdoctoral",
+      "meanings": ["博士后的"]
+    },
+    {
+      "word": "prioritize",
+      "meanings": ["优先"]
+    },
+    {
+      "word": "bipartisan",
+      "meanings": ["两党的"]
+    },
+    {
+      "word": "reluctance",
+      "meanings": ["勉强", "不情愿"]
+    },
+    {
+      "word": "intuitive",
+      "meanings": ["直觉的"]
+    },
+    {
+      "word": "quote",
+      "meanings": ["引用"]
+    },
+    {
+      "word": "pragmatic",
+      "meanings": ["务实的", "讲求实际的"]
+    },
+    {
+      "word": "alleviate",
+      "meanings": ["减轻", "缓解"]
+    },
+    {
+      "word": "underlying",
+      "meanings": ["潜在的", "基础的"]
+    },
+    {
+      "word": "generate",
+      "meanings": ["产生"]
+    },
+    {
+      "word": "dysfunction",
+      "meanings": ["失常"]
+    },
+    {
+      "word": "invasive",
+      "meanings": ["入侵的"]
+    },
+    {
+      "word": "ignore",
+      "meanings": ["忽视"]
+    },
+    {
+      "word": "specific",
+      "meanings": ["具体的"]
+    },
+    {
+      "word": "elegant",
+      "meanings": ["高雅的", "雅致的"]
+    },
+    {
+      "word": "capital",
+      "meanings": ["资金的", "资本的"]
+    },
+    {
+      "word": "indicate",
+      "meanings": ["表明"]
+    },
+    {
+      "word": "eligible",
+      "meanings": ["适合的", "胜任的"]
+    },
+    {
+      "word": "procedure",
+      "meanings": ["程序"]
+    },
+    {
+      "word": "unrealistic",
+      "meanings": ["不现实的"]
+    },
+    {
+      "word": "occur",
+      "meanings": ["发生"]
+    },
+    {
+      "word": "aggravate",
+      "meanings": ["加重", "加剧"]
+    },
+    {
+      "word": "frankly",
+      "meanings": ["坦率地"]
+    },
+    {
+      "word": "thrilling",
+      "meanings": ["令人兴奋的"]
+    },
+    {
+      "word": "irreversible",
+      "meanings": ["不可逆的", "不可取消的"]
+    },
+    {
+      "word": "marine",
+      "meanings": ["海洋的"]
+    },
+    {
+      "word": "interracial",
+      "meanings": ["种族间的"]
+    },
+    {
+      "word": "grave",
+      "meanings": ["严重的"]
+    },
+    {
+      "word": "undocumented",
+      "meanings": ["无证明的"]
+    },
+    {
+      "word": "appoint",
+      "meanings": ["任命"]
+    },
+    {
+      "word": "rhetorical",
+      "meanings": ["修辞的"]
+    },
+    {
+      "word": "momentum",
+      "meanings": ["动力", "势头"]
+    },
+    {
+      "word": "deserve",
+      "meanings": ["值得"]
+    },
+    {
+      "word": "drastically",
+      "meanings": ["激烈地", "猛烈地"]
+    },
+    {
+      "word": "particle",
+      "meanings": ["粒子", "微粒"]
+    },
+    {
+      "word": "miniature",
+      "meanings": ["微型的"]
+    },
+    {
+      "word": "merit",
+      "meanings": ["值得", "优点"]
+    },
+    {
+      "word": "category",
+      "meanings": ["种类", "类目", "范畴"]
+    },
+    {
+      "word": "liability",
+      "meanings": ["责任", "债务"]
+    },
+    {
+      "word": "hack",
+      "meanings": ["黑客攻击"]
+    },
+    {
+      "word": "matter",
+      "meanings": ["重要", "要紧"]
+    },
+    {
+      "word": "brutal",
+      "meanings": ["残酷的"]
+    },
+    {
+      "word": "biodiversity",
+      "meanings": ["生物多样性"]
+    },
+    {
+      "word": "subsequently",
+      "meanings": ["随后"]
+    },
+    {
+      "word": "bother",
+      "meanings": ["困扰"]
+    },
+    {
+      "word": "subconscious",
+      "meanings": ["下意识的", "潜意识的"]
+    },
+    {
+      "word": "genetic",
+      "meanings": ["基因的"]
+    },
+    {
+      "word": "recurrence",
+      "meanings": ["再次发生"]
+    },
+    {
+      "word": "defect",
+      "meanings": ["缺点"]
+    },
+    {
+      "word": "retailer",
+      "meanings": ["零售商"]
+    },
+    {
+      "word": "memo",
+      "meanings": ["备忘录"]
+    },
+    {
+      "word": "chain",
+      "meanings": ["连锁店"]
+    },
+    {
+      "word": "executive",
+      "meanings": ["主管", "经理", "执行官"]
+    },
+    {
+      "word": "ballet",
+      "meanings": ["芭蕾"]
+    },
+    {
+      "word": "enrollment",
+      "meanings": ["入学人数"]
+    },
+    {
+      "word": "propose",
+      "meanings": ["提出"]
+    },
+    {
+      "word": "frantic",
+      "meanings": ["疯狂的"]
+    },
+    {
+      "word": "allegedly",
+      "meanings": ["据说"]
+    },
+    {
+      "word": "manipulate",
+      "meanings": ["操纵"]
+    },
+    {
+      "word": "coverage",
+      "meanings": ["报道"]
+    },
+    {
+      "word": "novel",
+      "meanings": ["新颖的"]
+    },
+    {
+      "word": "previous",
+      "meanings": ["之前的"]
+    },
+    {
+      "word": "neutrality",
+      "meanings": ["中立"]
+    },
+    {
+      "word": "underscore",
+      "meanings": ["强调"]
+    },
+    {
+      "word": "indispensable",
+      "meanings": ["必不可少的"]
+    },
+    {
+      "word": "puzzle",
+      "meanings": ["迷惑"]
+    },
+    {
+      "word": "illustrate",
+      "meanings": ["阐明", "说明"]
+    },
+    {
+      "word": "sanitation",
+      "meanings": ["卫生环境", "卫生设备"]
+    },
+    {
+      "word": "defensive",
+      "meanings": ["防守的", "防御的"]
+    },
+    {
+      "word": "perspective",
+      "meanings": ["视角", "观点"]
+    },
+    {
+      "word": "migration",
+      "meanings": ["迁徙", "移居"]
+    },
+    {
+      "word": "float",
+      "meanings": ["漂浮"]
+    },
+    {
+      "word": "flexible",
+      "meanings": ["灵活的"]
+    },
+    {
+      "word": "capable",
+      "meanings": ["有能力的"]
+    },
+    {
+      "word": "practical",
+      "meanings": ["实践的", "实用的"]
+    },
+    {
+      "word": "territory",
+      "meanings": ["领域", "领土"]
+    },
+    {
+      "word": "urbanization",
+      "meanings": ["城市化"]
+    },
+    {
+      "word": "privilege",
+      "meanings": ["特权"]
+    },
+    {
+      "word": "forthcoming",
+      "meanings": ["即将来临的"]
+    },
+    {
+      "word": "widen",
+      "meanings": ["拓宽", "变宽"]
+    },
+    {
+      "word": "deduction",
+      "meanings": ["扣款"]
+    },
+    {
+      "word": "virtual",
+      "meanings": ["虚拟的", "事实上的"]
+    },
+    {
+      "word": "boast",
+      "meanings": ["自夸"]
+    },
+    {
+      "word": "monetary",
+      "meanings": ["货币的"]
+    },
+    {
+      "word": "dim",
+      "meanings": ["暗淡的", "愚蠢的"]
+    },
+    {
+      "word": "sensible",
+      "meanings": ["理智的"]
+    },
+    {
+      "word": "infant",
+      "meanings": ["婴儿"]
+    },
+    {
+      "word": "precedent",
+      "meanings": ["先例"]
+    },
+    {
+      "word": "activate",
+      "meanings": ["激活"]
+    },
+    {
+      "word": "accomplish",
+      "meanings": ["实现"]
+    },
+    {
+      "word": "immigration",
+      "meanings": ["移民"]
+    },
+    {
+      "word": "approve",
+      "meanings": ["赞同"]
+    },
+    {
+      "word": "pessimist",
+      "meanings": ["悲观主义者"]
+    },
+    {
+      "word": "aggressive",
+      "meanings": ["挑衅的"]
+    },
+    {
+      "word": "toxic",
+      "meanings": ["有毒的"]
+    },
+    {
+      "word": "ruling",
+      "meanings": ["裁定"]
+    },
+    {
+      "word": "prolong",
+      "meanings": ["延长"]
+    },
+    {
+      "word": "tension",
+      "meanings": ["紧张"]
+    },
+    {
+      "word": "specialist",
+      "meanings": ["专家"]
+    },
+    {
+      "word": "encounter",
+      "meanings": ["遭遇"]
+    },
+    {
+      "word": "reap",
+      "meanings": ["收割", "收获"]
+    },
+    {
+      "word": "institute",
+      "meanings": ["研究所", "学会", "学院"]
+    },
+    {
+      "word": "maintenance",
+      "meanings": ["维修"]
+    },
+    {
+      "word": "legend",
+      "meanings": ["传奇"]
+    },
+    {
+      "word": "groundless",
+      "meanings": ["无理由的", "无根据的"]
+    },
+    {
+      "word": "commodity",
+      "meanings": ["商品"]
+    },
+    {
+      "word": "stimulate",
+      "meanings": ["刺激", "激励"]
+    },
+    {
+      "word": "tough",
+      "meanings": ["困难的", "粗暴的"]
+    },
+    {
+      "word": "vital",
+      "meanings": ["重要的"]
+    },
+    {
+      "word": "ankle",
+      "meanings": ["脚踝"]
+    },
+    {
+      "word": "surgical",
+      "meanings": ["手术的"]
+    },
+    {
+      "word": "peculiar",
+      "meanings": ["奇怪的", "特有的"]
+    },
+    {
+      "word": "fade",
+      "meanings": ["褪色"]
+    },
+    {
+      "word": "pursuit",
+      "meanings": ["追求"]
+    },
+    {
+      "word": "sophisticated",
+      "meanings": ["复杂的", "精密的", "老于世故的"]
+    },
+    {
+      "word": "lobbyist",
+      "meanings": ["游说者"]
+    },
+    {
+      "word": "lessen",
+      "meanings": ["减少"]
+    },
+    {
+      "word": "handgun",
+      "meanings": ["手枪"]
+    },
+    {
+      "word": "influential",
+      "meanings": ["有影响力的"]
+    },
+    {
+      "word": "detached",
+      "meanings": ["冷静的", "超然的"]
+    },
+    {
+      "word": "biography",
+      "meanings": ["传记"]
+    },
+    {
+      "word": "curriculum",
+      "meanings": ["课程"]
+    },
+    {
+      "word": "margin",
+      "meanings": ["利润", "余地", "幅度"]
+    },
+    {
+      "word": "fearlessly",
+      "meanings": ["无畏地", "大胆地"]
+    },
+    {
+      "word": "randomly",
+      "meanings": ["随机地"]
+    },
+    {
+      "word": "discrimination",
+      "meanings": ["歧视"]
+    },
+    {
+      "word": "stimulus",
+      "meanings": ["刺激"]
+    },
+    {
+      "word": "competence",
+      "meanings": ["能力"]
+    },
+    {
+      "word": "sneak",
+      "meanings": ["溜走"]
+    },
+    {
+      "word": "exceed",
+      "meanings": ["超过"]
+    },
+    {
+      "word": "turbulence",
+      "meanings": ["气流", "骚乱"]
+    },
+    {
+      "word": "address",
+      "meanings": ["解决"]
+    },
+    {
+      "word": "trade",
+      "meanings": ["做买卖", "交换"]
+    },
+    {
+      "word": "deal",
+      "meanings": ["买卖毒品"]
+    },
+    {
+      "word": "hike",
+      "meanings": ["作长途徒步旅行"]
+    },
+    {
+      "word": "action",
+      "meanings": ["行动"]
+    },
+    {
+      "word": "resultant",
+      "meanings": ["作为结果而发生的"]
+    },
+    {
+      "word": "consequent",
+      "meanings": ["作为结果的", "必然的"]
+    },
+    {
+      "word": "composer",
+      "meanings": ["作曲家"]
+    },
+    {
+      "word": "slave",
+      "meanings": ["作苦工", "奴役"]
+    },
+    {
+      "word": "grunt",
+      "meanings": ["作呼噜声", "咕哝"]
+    },
+    {
+      "word": "abide",
+      "meanings": ["忍受", "遵守"]
+    },
+    {
+      "word": "value",
+      "meanings": ["尊重", "重视", "估价"]
+    },
+    {
+      "word": "dignity",
+      "meanings": ["庄重", "尊严", "体面"]
+    },
+    {
+      "word": "outermost",
+      "meanings": ["最外面的", "最远的"]
+    },
+    {
+      "word": "optimum",
+      "meanings": ["最优的", "最适宜的"]
+    },
+    {
+      "word": "initially",
+      "meanings": ["最初", "开始"]
+    },
+    {
+      "word": "makeup",
+      "meanings": ["化妆品", "性格", "构造", "组成"]
+    },
+    {
+      "word": "block",
+      "meanings": ["阻塞", "障碍物"]
+    },
+    {
+      "word": "damn",
+      "meanings": ["谴责"]
+    },
+    {
+      "word": "ample",
+      "meanings": ["足够的", "宽敞的"]
+    },
+    {
+      "word": "suffice",
+      "meanings": ["足够"]
+    },
+    {
+      "word": "lease",
+      "meanings": ["租约", "契约"]
+    },
+    {
+      "word": "charter",
+      "meanings": ["包租（飞机、船等）"]
+    },
+    {
+      "word": "headquarters",
+      "meanings": ["总部"]
+    },
+    {
+      "word": "main",
+      "meanings": ["总管道", "干线"]
+    },
+    {
+      "word": "overall",
+      "meanings": ["总的"]
+    },
+    {
+      "word": "conceit",
+      "meanings": ["自负", "自高自大"]
+    },
+    {
+      "word": "ultraviolet",
+      "meanings": ["紫外（线）的"]
+    },
+    {
+      "word": "endow",
+      "meanings": ["资助", "赋予"]
+    },
+    {
+      "word": "datum",
+      "meanings": ["资料", "数据"]
+    },
+    {
+      "word": "bourgeois",
+      "meanings": ["中产阶级的", "庸俗的", "资产阶级的"]
+    },
+    {
+      "word": "woodpecker",
+      "meanings": ["啄木鸟"]
+    },
+    {
+      "word": "crash",
+      "meanings": ["猛撞"]
+    },
+    {
+      "word": "way",
+      "meanings": ["状态", "状况"]
+    },
+    {
+      "word": "superb",
+      "meanings": ["壮丽的", "超等的"]
+    },
+    {
+      "word": "ornament",
+      "meanings": ["装饰物"]
+    },
+    {
+      "word": "decorative",
+      "meanings": ["装饰的", "可作装饰的"]
+    },
+    {
+      "word": "ornamental",
+      "meanings": ["装饰的"]
+    },
+    {
+      "word": "shipment",
+      "meanings": ["装载的货物", "装货"]
+    },
+    {
+      "word": "can",
+      "meanings": ["装罐头"]
+    },
+    {
+      "word": "array",
+      "meanings": ["排列", "陈列"]
+    },
+    {
+      "word": "torque",
+      "meanings": ["转（力）矩", "扭（力）矩"]
+    },
+    {
+      "word": "box",
+      "meanings": ["（法庭的）专席"]
+    },
+    {
+      "word": "workshop",
+      "meanings": ["专题讨论会"]
+    },
+    {
+      "word": "patent",
+      "meanings": ["专利的", "专利"]
+    },
+    {
+      "word": "clutch",
+      "meanings": ["抓住", "掌握", "攫"]
+    },
+    {
+      "word": "nest",
+      "meanings": ["筑巢", "为…筑巢"]
+    },
+    {
+      "word": "coin",
+      "meanings": ["铸造（硬币）"]
+    },
+    {
+      "word": "watchful",
+      "meanings": ["注意的", "警惕的"]
+    },
+    {
+      "word": "inject",
+      "meanings": ["注射", "注满", "喷射"]
+    },
+    {
+      "word": "storage",
+      "meanings": ["贮藏", "保管"]
+    },
+    {
+      "word": "principally",
+      "meanings": ["主要", "大抵"]
+    },
+    {
+      "word": "stalk",
+      "meanings": ["主茎", "叶柄"]
+    },
+    {
+      "word": "preside",
+      "meanings": ["主持", "主奏"]
+    },
+    {
+      "word": "eject",
+      "meanings": ["逐出", "排斥", "喷射"]
+    },
+    {
+      "word": "bamboo",
+      "meanings": ["竹", "竹杆", "竹棍"]
+    },
+    {
+      "word": "jewellery",
+      "meanings": ["珠宝", "珠宝饰物"]
+    },
+    {
+      "word": "wrinkle",
+      "meanings": ["皱纹", "使起皱纹"]
+    },
+    {
+      "word": "axial",
+      "meanings": ["轴的", "轴向的"]
+    },
+    {
+      "word": "axis",
+      "meanings": ["轴", "轴线"]
+    },
+    {
+      "word": "ambient",
+      "meanings": ["周围的", "包围着的"]
+    },
+    {
+      "word": "periodic",
+      "meanings": ["周期的", "一定时期的"]
+    },
+    {
+      "word": "anniversary",
+      "meanings": ["周年纪念日"]
+    },
+    {
+      "word": "peripheral",
+      "meanings": ["外围的", "末梢的"]
+    },
+    {
+      "word": "perimeter",
+      "meanings": ["周（边）", "周长"]
+    },
+    {
+      "word": "anybody",
+      "meanings": ["重要人物"]
+    },
+    {
+      "word": "responsible",
+      "meanings": ["可靠的", "责任重大的"]
+    },
+    {
+      "word": "consequence",
+      "meanings": ["重要（性）", "重大意义"]
+    },
+    {
+      "word": "hearty",
+      "meanings": ["热情友好的", "丰盛的"]
+    },
+    {
+      "word": "neutron",
+      "meanings": ["中子"]
+    },
+    {
+      "word": "intermediate",
+      "meanings": ["中间体", "调解人"]
+    },
+    {
+      "word": "proton",
+      "meanings": ["质子", "氕核"]
+    },
+    {
+      "word": "qualitative",
+      "meanings": ["质的", "定性的"]
+    },
+    {
+      "word": "fabricate",
+      "meanings": ["捏造", "制作"]
+    },
+    {
+      "word": "fabrication",
+      "meanings": ["捏造", "制作"]
+    },
+    {
+      "word": "volunteer",
+      "meanings": ["志愿者", "志愿"]
+    },
+    {
+      "word": "rebuke",
+      "meanings": ["指责", "非难", "斥责"]
+    },
+    {
+      "word": "denote",
+      "meanings": ["指示", "意味着"]
+    },
+    {
+      "word": "instructor",
+      "meanings": ["指导者", "教员"]
+    },
+    {
+      "word": "colonial",
+      "meanings": ["殖民地的", "殖民的"]
+    },
+    {
+      "word": "vocation",
+      "meanings": ["职业", "行业"]
+    },
+    {
+      "word": "notable",
+      "meanings": ["值得注意的", "著名的"]
+    },
+    {
+      "word": "weaver",
+      "meanings": ["织布工", "编织者"]
+    },
+    {
+      "word": "brace",
+      "meanings": ["支柱", "拉紧", "撑牢"]
+    },
+    {
+      "word": "check",
+      "meanings": ["支票", "帐单"]
+    },
+    {
+      "word": "second",
+      "meanings": ["支持"]
+    },
+    {
+      "word": "bearing",
+      "meanings": ["方位", "承座", "轴承", "忍受"]
+    },
+    {
+      "word": "politics",
+      "meanings": ["政纲", "政见", "策略"]
+    },
+    {
+      "word": "platform",
+      "meanings": ["政纲", "党纲", "宣言"]
+    },
+    {
+      "word": "confirmation",
+      "meanings": ["证实", "确定", "确认"]
+    },
+    {
+      "word": "audience",
+      "meanings": ["正式会见", "拜会"]
+    },
+    {
+      "word": "correctly",
+      "meanings": ["正确地", "恰当地"]
+    },
+    {
+      "word": "positive",
+      "meanings": ["正的", "阳性的", "正极的"]
+    },
+    {
+      "word": "normalization",
+      "meanings": ["正常化", "标准化"]
+    },
+    {
+      "word": "sign",
+      "meanings": ["征兆", "迹象", "病症"]
+    },
+    {
+      "word": "conqueror",
+      "meanings": ["征服者", "胜利者"]
+    },
+    {
+      "word": "gust",
+      "meanings": ["阵风", "一阵狂风"]
+    },
+    {
+      "word": "clinic",
+      "meanings": ["诊所", "医务室", "会诊"]
+    },
+    {
+      "word": "sincerity",
+      "meanings": ["真诚", "诚意", "真实"]
+    },
+    {
+      "word": "cherish",
+      "meanings": ["珍爱", "怀有（感情）"]
+    },
+    {
+      "word": "underline",
+      "meanings": ["着重", "强调", "预告"]
+    },
+    {
+      "word": "grind",
+      "meanings": ["磨碎", "碾碎"]
+    },
+    {
+      "word": "discount",
+      "meanings": ["折扣", "打折扣卖"]
+    },
+    {
+      "word": "literally",
+      "meanings": ["照字义", "逐字地"]
+    },
+    {
+      "word": "summon",
+      "meanings": ["召唤", "鼓起（勇气）"]
+    },
+    {
+      "word": "marsh",
+      "meanings": ["沼泽地", "湿地"]
+    },
+    {
+      "word": "entertainment",
+      "meanings": ["招待", "招待会"]
+    },
+    {
+      "word": "hindrance",
+      "meanings": ["障碍", "妨碍"]
+    },
+    {
+      "word": "hose",
+      "meanings": ["软管", "袜类"]
+    },
+    {
+      "word": "sofa",
+      "meanings": ["长沙发", "沙发"]
+    },
+    {
+      "word": "tensile",
+      "meanings": ["张力的", "能伸长的"]
+    },
+    {
+      "word": "warfare",
+      "meanings": ["战争", "战争状态"]
+    },
+    {
+      "word": "predominant",
+      "meanings": ["占优势的", "主要的"]
+    },
+    {
+      "word": "cling",
+      "meanings": ["粘住", "依附", "坚持"]
+    },
+    {
+      "word": "viscous",
+      "meanings": ["粘滞的", "粘性的"]
+    },
+    {
+      "word": "coherent",
+      "meanings": ["连贯的", "有条理的", "一致的"]
+    },
+    {
+      "word": "album",
+      "meanings": ["册子"]
+    },
+    {
+      "word": "glue",
+      "meanings": ["粘牢"]
+    },
+    {
+      "word": "cement",
+      "meanings": ["粘结"]
+    },
+    {
+      "word": "adhere",
+      "meanings": ["粘附", "追随", "坚持"]
+    },
+    {
+      "word": "grasshopper",
+      "meanings": ["蚱蜢", "蝗虫", "蚂蚱"]
+    },
+    {
+      "word": "wink",
+      "meanings": ["眨眼", "使眼色"]
+    },
+    {
+      "word": "further",
+      "meanings": ["增进"]
+    },
+    {
+      "word": "multiplication",
+      "meanings": ["乘法", "增加"]
+    },
+    {
+      "word": "shipbuilding",
+      "meanings": ["造船（业）", "造船学"]
+    },
+    {
+      "word": "mint",
+      "meanings": ["造币厂", "巨额钱财"]
+    },
+    {
+      "word": "hollow",
+      "meanings": ["凿空", "挖空"]
+    },
+    {
+      "word": "hymn",
+      "meanings": ["赞美诗", "圣歌", "赞歌"]
+    },
+    {
+      "word": "fore",
+      "meanings": ["在船头", "飞行器头部"]
+    },
+    {
+      "word": "therein",
+      "meanings": ["在那里"]
+    },
+    {
+      "word": "overseas",
+      "meanings": ["在海外", "（向）国外"]
+    },
+    {
+      "word": "ashore",
+      "meanings": ["在岸上", "上岸"]
+    },
+    {
+      "word": "outside",
+      "meanings": ["在…外", "向…外"]
+    },
+    {
+      "word": "brand",
+      "meanings": ["在…上打烙印"]
+    },
+    {
+      "word": "alongside",
+      "meanings": ["在…旁边"]
+    },
+    {
+      "word": "roam",
+      "meanings": ["在…漫步", "漫游"]
+    },
+    {
+      "word": "disastrous",
+      "meanings": ["灾难性的", "悲惨的"]
+    },
+    {
+      "word": "operation",
+      "meanings": ["运算"]
+    },
+    {
+      "word": "freight",
+      "meanings": ["货运", "运费"]
+    },
+    {
+      "word": "locomotive",
+      "meanings": ["运动的", "机动"]
+    },
+    {
+      "word": "lunar",
+      "meanings": ["月亮的"]
+    },
+    {
+      "word": "dome",
+      "meanings": ["圆屋顶", "拱顶"]
+    },
+    {
+      "word": "cylinder",
+      "meanings": ["圆筒", "柱（面）", "汽缸"]
+    },
+    {
+      "word": "satisfactorily",
+      "meanings": ["圆满地"]
+    },
+    {
+      "word": "nucleus",
+      "meanings": ["原子核", "细胞核"]
+    },
+    {
+      "word": "prototype",
+      "meanings": ["原型", "典型", "范例"]
+    },
+    {
+      "word": "vowel",
+      "meanings": ["元音", "元音字母"]
+    },
+    {
+      "word": "marshal",
+      "meanings": ["元帅", "陆军元帅"]
+    },
+    {
+      "word": "subscription",
+      "meanings": ["订阅（费）", "用户费"]
+    },
+    {
+      "word": "prophet",
+      "meanings": ["预言家", "先知"]
+    },
+    {
+      "word": "prophecy",
+      "meanings": ["预言", "预言能力"]
+    },
+    {
+      "word": "prediction",
+      "meanings": ["预言", "预告", "预报"]
+    },
+    {
+      "word": "preset",
+      "meanings": ["预先装置"]
+    },
+    {
+      "word": "beforehand",
+      "meanings": ["预先", "提前"]
+    },
+    {
+      "word": "budget",
+      "meanings": ["预算"]
+    },
+    {
+      "word": "foresee",
+      "meanings": ["预见", "预知", "看穿"]
+    },
+    {
+      "word": "prevention",
+      "meanings": ["预防", "阻止", "妨碍"]
+    },
+    {
+      "word": "tulip",
+      "meanings": ["郁金香"]
+    },
+    {
+      "word": "intonation",
+      "meanings": ["语调", "声调", "发声"]
+    },
+    {
+      "word": "cosmic",
+      "meanings": ["宇宙的", "广大无边的"]
+    },
+    {
+      "word": "cosmos",
+      "meanings": ["宇宙"]
+    },
+    {
+      "word": "excuse",
+      "meanings": ["为…辩解", "使免除"]
+    },
+    {
+      "word": "senseless",
+      "meanings": ["愚蠢的", "无意义的"]
+    },
+    {
+      "word": "amusement",
+      "meanings": ["乐趣", "娱乐", "消遣"]
+    },
+    {
+      "word": "torpedo",
+      "meanings": ["鱼雷", "水雷"]
+    },
+    {
+      "word": "roundabout",
+      "meanings": ["转弯抹角的", "迂回的"]
+    },
+    {
+      "word": "guilt",
+      "meanings": ["内疚", "有罪", "犯罪"]
+    },
+    {
+      "word": "shadowy",
+      "meanings": ["有影的", "幽暗的"]
+    },
+    {
+      "word": "avail",
+      "meanings": ["有益于", "有用", "效用"]
+    },
+    {
+      "word": "ambitious",
+      "meanings": ["有雄心的", "热望的"]
+    },
+    {
+      "word": "finite",
+      "meanings": ["有限的", "有尽的"]
+    },
+    {
+      "word": "magnet",
+      "meanings": ["有吸引力的人（或物）"]
+    },
+    {
+      "word": "advantageous",
+      "meanings": ["有利的", "有助的"]
+    },
+    {
+      "word": "courteous",
+      "meanings": ["有礼貌的", "谦恭的"]
+    },
+    {
+      "word": "bead",
+      "meanings": ["有孔小珠", "水珠", "露珠"]
+    },
+    {
+      "word": "commonsense",
+      "meanings": ["有常识的"]
+    },
+    {
+      "word": "liable",
+      "meanings": ["有（法律）责任的"]
+    },
+    {
+      "word": "yacht",
+      "meanings": ["游艇", "快艇"]
+    },
+    {
+      "word": "uranium",
+      "meanings": ["铀"]
+    },
+    {
+      "word": "tanker",
+      "meanings": ["油船", "空中加油飞机"]
+    },
+    {
+      "word": "postal",
+      "meanings": ["邮政的", "邮局的"]
+    },
+    {
+      "word": "superiority",
+      "meanings": ["优越（性）", "优势"]
+    },
+    {
+      "word": "elbow",
+      "meanings": ["用肘挤", "挤进"]
+    },
+    {
+      "word": "paper",
+      "meanings": ["贴壁纸"]
+    },
+    {
+      "word": "cutter",
+      "meanings": ["用于切割的器械"]
+    },
+    {
+      "word": "net",
+      "meanings": ["用网捕", "用网覆盖"]
+    },
+    {
+      "word": "head",
+      "meanings": ["用头顶（球）", "朝...行进"]
+    },
+    {
+      "word": "tug",
+      "meanings": ["用力拖", "猛拉", "拖"]
+    },
+    {
+      "word": "hook",
+      "meanings": ["（使）钩住", "挂住"]
+    },
+    {
+      "word": "sniff",
+      "meanings": ["用鼻子吸", "嗅"]
+    },
+    {
+      "word": "courageous",
+      "meanings": ["勇敢的", "无畏的"]
+    },
+    {
+      "word": "everlasting",
+      "meanings": ["永久的", "持久的"]
+    },
+    {
+      "word": "eternal",
+      "meanings": ["永久的", "不朽的"]
+    },
+    {
+      "word": "stiffness",
+      "meanings": ["硬度"]
+    },
+    {
+      "word": "comply",
+      "meanings": ["应允", "遵照", "照做"]
+    },
+    {
+      "word": "bound",
+      "meanings": ["应当的", "必定的"]
+    },
+    {
+      "word": "salute",
+      "meanings": ["（向…）行军礼", "（向…）致敬"]
+    },
+    {
+      "word": "press",
+      "meanings": ["出版社", "印刷所", "印刷机"]
+    },
+    {
+      "word": "printer",
+      "meanings": ["印刷工", "印花工"]
+    },
+    {
+      "word": "harbour",
+      "meanings": ["怀着（不好的想法）", "包含", "藏有", "窝藏"]
+    },
+    {
+      "word": "diet",
+      "meanings": ["日常饮食", "日常食物"]
+    },
+    {
+      "word": "tempt",
+      "meanings": ["引诱", "诱惑", "劝诱"]
+    },
+    {
+      "word": "cite",
+      "meanings": ["引证", "引用", "传召"]
+    },
+    {
+      "word": "ignite",
+      "meanings": ["引燃", "着火"]
+    },
+    {
+      "word": "derivation",
+      "meanings": ["引出", "起源", "衍生"]
+    },
+    {
+      "word": "banker",
+      "meanings": ["银行家"]
+    },
+    {
+      "word": "obscure",
+      "meanings": ["无名的", "鲜为人知的"]
+    },
+    {
+      "word": "inasmuch",
+      "meanings": ["因为", "由于"]
+    },
+    {
+      "word": "through",
+      "meanings": ["因为", "由于"]
+    },
+    {
+      "word": "consciousness",
+      "meanings": ["意识", "知觉"]
+    },
+    {
+      "word": "observation",
+      "meanings": ["意见", "短评", "按语"]
+    },
+    {
+      "word": "cross",
+      "meanings": ["恼怒的"]
+    },
+    {
+      "word": "restrain",
+      "meanings": ["制止", "抑制"]
+    },
+    {
+      "word": "singular",
+      "meanings": ["异常的", "奇异的"]
+    },
+    {
+      "word": "house",
+      "meanings": ["议院", "会议厅"]
+    },
+    {
+      "word": "obligation",
+      "meanings": ["义务", "职责", "责任"]
+    },
+    {
+      "word": "formerly",
+      "meanings": ["以前", "从前"]
+    },
+    {
+      "word": "veil",
+      "meanings": ["以面纱遮掩", "遮盖"]
+    },
+    {
+      "word": "forsake",
+      "meanings": ["遗弃", "抛弃", "摒绝"]
+    },
+    {
+      "word": "transmission",
+      "meanings": ["传播", "传染"]
+    },
+    {
+      "word": "colonist",
+      "meanings": ["移民", "殖民地居民"]
+    },
+    {
+      "word": "instrumental",
+      "meanings": ["器乐的", "有帮助的"]
+    },
+    {
+      "word": "wardrobe",
+      "meanings": ["衣柜", "衣橱", "藏衣室"]
+    },
+    {
+      "word": "garment",
+      "meanings": ["衣服", "服装", "衣着"]
+    },
+    {
+      "word": "Islam",
+      "meanings": ["伊斯兰教", "回教"]
+    },
+    {
+      "word": "evenly",
+      "meanings": ["一致地", "平静地"]
+    },
+    {
+      "word": "compatible",
+      "meanings": ["兼容的"]
+    },
+    {
+      "word": "stitch",
+      "meanings": ["一针", "缝线", "缝"]
+    },
+    {
+      "word": "troop",
+      "meanings": ["一群", "一队", "大量"]
+    },
+    {
+      "word": "concert",
+      "meanings": ["一齐", "一致", "协作"]
+    },
+    {
+      "word": "chop",
+      "meanings": ["一块排骨", "肉块"]
+    },
+    {
+      "word": "baby",
+      "meanings": ["一家中年龄最小的人"]
+    },
+    {
+      "word": "episode",
+      "meanings": ["（人生的）一段经历", "（小说的）片段"]
+    },
+    {
+      "word": "cluster",
+      "meanings": ["串", "束", "簇", "群", "组", "群聚", "聚集"]
+    },
+    {
+      "word": "generalization",
+      "meanings": ["一般化", "概括", "综合"]
+    },
+    {
+      "word": "burglar",
+      "meanings": ["夜盗", "窃贼"]
+    },
+    {
+      "word": "amateur",
+      "meanings": ["业余的"]
+    },
+    {
+      "word": "complexion",
+      "meanings": ["肤色", "面色", "局面", "性质"]
+    },
+    {
+      "word": "continuity",
+      "meanings": ["连续", "持续"]
+    },
+    {
+      "word": "wax",
+      "meanings": ["蜡", "蜂蜡", "给…上蜡"]
+    },
+    {
+      "word": "sensation",
+      "meanings": ["感觉能力", "感觉", "知觉", "轰动"]
+    },
+    {
+      "word": "furthermore",
+      "meanings": ["而且", "此外"]
+    },
+    {
+      "word": "timely",
+      "meanings": ["及时的", "适时的"]
+    },
+    {
+      "word": "cape",
+      "meanings": ["斗篷", "披肩", "海角", "岬"]
+    },
+    {
+      "word": "discard",
+      "meanings": ["丢弃", "抛弃", "遗弃"]
+    },
+    {
+      "word": "rebel",
+      "meanings": ["反叛", "造反", "反对", "不服从", "反叛分子"]
+    },
+    {
+      "word": "bounce",
+      "meanings": ["弹起", "反弹", "颠跳", "弹", "反弹"]
+    },
+    {
+      "word": "obscene",
+      "meanings": ["淫秽的", "下流的", "可憎的", "可恶的"]
+    },
+    {
+      "word": "tissue",
+      "meanings": ["组织", "薄绢", "薄纸", "手巾纸"]
+    },
+    {
+      "word": "Thanksgiving",
+      "meanings": ["感恩节"]
+    },
+    {
+      "word": "proficiency",
+      "meanings": ["熟练", "精通"]
+    },
+    {
+      "word": "modest",
+      "meanings": ["谦虚的", "适中的", "羞怯的"]
+    },
+    {
+      "word": "promising",
+      "meanings": ["有希望的", "有前途的"]
+    },
+    {
+      "word": "slick",
+      "meanings": ["圆滑的", "口齿伶俐的", "精巧的", "巧妙的", "光滑的", "滑溜的"]
+    },
+    {
+      "word": "practicable",
+      "meanings": ["可行的", "适用的"]
+    },
+    {
+      "word": "item",
+      "meanings": ["条", "条款"]
+    },
+    {
+      "word": "canvas",
+      "meanings": ["帆布", "帆布画布", "油画"]
+    },
+    {
+      "word": "superintendent",
+      "meanings": ["主管人", "监管人", "负责人", "警长"]
+    },
+    {
+      "word": "probability",
+      "meanings": ["可能性", "可能发生的事", "概率"]
+    },
+    {
+      "word": "explicit",
+      "meanings": ["详述的", "明确的", "明晰的", "直言的", "露骨的"]
+    },
+    {
+      "word": "rely",
+      "meanings": ["依靠", "依赖", "信赖", "指望"]
+    },
+    {
+      "word": "slide",
+      "meanings": ["滑", "悄悄地移动", "滑动", "滑道", "滑面", "幻灯片"]
+    },
+    {
+      "word": "utilize",
+      "meanings": ["利用"]
+    },
+    {
+      "word": "sticky",
+      "meanings": ["黏性的", "胶粘的", "湿热的"]
+    },
+    {
+      "word": "denial",
+      "meanings": ["否认", "拒绝", "拒绝给予"]
+    },
+    {
+      "word": "implicit",
+      "meanings": ["不言明的", "含蓄的", "内含的", "固有的", "无疑问的"]
+    },
+    {
+      "word": "intensify",
+      "meanings": ["增强", "加剧"]
+    },
+    {
+      "word": "feminine",
+      "meanings": ["女性的", "女子的", "女子气的"]
+    },
+    {
+      "word": "purity",
+      "meanings": ["纯净", "纯洁", "纯正"]
+    },
+    {
+      "word": "settle",
+      "meanings": ["安排", "安放", "调停", "支付", "安家", "飞落", "停留", "安定"]
+    },
+    {
+      "word": "heighten",
+      "meanings": ["提高", "加强"]
+    },
+    {
+      "word": "scrape",
+      "meanings": ["刮", "擦", "勉强过日子", "刮", "擦", "刮擦声"]
+    },
+    {
+      "word": "web",
+      "meanings": ["网", "网络", "错综复杂的事物"]
+    },
+    {
+      "word": "femininity",
+      "meanings": ["女性气质"]
+    },
+    {
+      "word": "plateau",
+      "meanings": ["高原", "稳定时期"]
+    },
+    {
+      "word": "tragic",
+      "meanings": ["悲惨的", "可悲的", "悲剧的"]
+    },
+    {
+      "word": "grin",
+      "meanings": ["咧嘴笑"]
+    },
+    {
+      "word": "reliance",
+      "meanings": ["依靠", "依赖"]
+    },
+    {
+      "word": "explore",
+      "meanings": ["探险", "探索", "仔细查阅", "探究"]
+    },
+    {
+      "word": "display",
+      "meanings": ["陈列", "展览", "显示"]
+    },
+    {
+      "word": "electricity",
+      "meanings": ["电"]
+    },
+    {
+      "word": "climate",
+      "meanings": ["气候", "风气", "气氛"]
+    },
+    {
+      "word": "tentative",
+      "meanings": ["试探的", "试验的"]
+    },
+    {
+      "word": "disorder",
+      "meanings": ["混乱", "杂乱", "骚乱"]
+    },
+    {
+      "word": "criticize",
+      "meanings": ["批评", "评论", "非难"]
+    },
+    {
+      "word": "economic",
+      "meanings": ["经济的", "经济学的"]
+    },
+    {
+      "word": "transistor",
+      "meanings": ["晶体管", "晶体管收音机"]
+    },
+    {
+      "word": "statistics",
+      "meanings": ["统计学", "统计表"]
+    },
+    {
+      "word": "grim",
+      "meanings": ["讨厌的", "糟糕的", "严厉的", "冷酷的", "无情的"]
+    },
+    {
+      "word": "giggle",
+      "meanings": ["咯咯笑", "傻笑"]
+    },
+    {
+      "word": "offspring",
+      "meanings": ["子女", "子孙", "后代", "崽"]
+    },
+    {
+      "word": "arrest",
+      "meanings": ["逮捕", "拘留", "停止", "阻止", "吸引"]
+    },
+    {
+      "word": "mature",
+      "meanings": ["成熟的", "成年人的", "深思熟虑的", "到期的", "使成熟"]
+    },
+    {
+      "word": "notification",
+      "meanings": ["通知", "告示", "通知书"]
+    },
+    {
+      "word": "overflow",
+      "meanings": ["满得外溢", "外流", "泛滥", "充满", "洋溢", "淹没", "多得无法容纳", "溢出", "溢流口"]
+    },
+    {
+      "word": "crisis",
+      "meanings": ["危机", "存亡之际", "关键阶段"]
+    },
+    {
+      "word": "handicap",
+      "meanings": ["缺陷", "障碍", "不利条件", "妨碍", "使不利"]
+    },
+    {
+      "word": "survival",
+      "meanings": ["幸存", "幸存者", "残存物"]
+    },
+    {
+      "word": "shatter",
+      "meanings": ["碎裂", "使粉碎", "砸碎", "使破灭", "使震惊"]
+    },
+    {
+      "word": "plea",
+      "meanings": ["恳求", "请求", "抗辩", "答辩", "辩护", "借口", "托辞"]
+    },
+    {
+      "word": "persuasion",
+      "meanings": ["说服", "劝说", "信念", "信仰"]
+    },
+    {
+      "word": "nutrition",
+      "meanings": ["营养"]
+    },
+    {
+      "word": "transfer",
+      "meanings": ["搬", "转移", "调动", "转学", "转让", "过户", "乘车", "转乘"]
+    },
+    {
+      "word": "veteran",
+      "meanings": ["经验丰富的", "老手", "老兵"]
+    },
+    {
+      "word": "cereal",
+      "meanings": ["谷类食物", "谷类植物", "谷物"]
+    },
+    {
+      "word": "esthetic",
+      "meanings": ["美学的", "审美的", "悦目的", "雅致的"]
+    },
+    {
+      "word": "elementary",
+      "meanings": ["基本的", "初级的"]
+    },
+    {
+      "word": "eagle",
+      "meanings": ["鹰"]
+    },
+    {
+      "word": "solemn",
+      "meanings": ["庄严的", "隆重的", "严肃的"]
+    },
+    {
+      "word": "embarrass",
+      "meanings": ["使窘迫", "使为难"]
+    },
+    {
+      "word": "option",
+      "meanings": ["选择", "选择权", "选择自由", "选择的事物"]
+    },
+    {
+      "word": "acute",
+      "meanings": ["严重的", "急性的", "灵敏的", "敏锐的"]
+    },
+    {
+      "word": "limitation",
+      "meanings": ["限制", "限度", "局限"]
+    },
+    {
+      "word": "jog",
+      "meanings": ["慢跑", "轻轻碰撞"]
+    },
+    {
+      "word": "terrify",
+      "meanings": ["使害怕", "使惊吓"]
+    },
+    {
+      "word": "handbook",
+      "meanings": ["手册", "便览"]
+    },
+    {
+      "word": "ascertain",
+      "meanings": ["弄清", "查明", "确定"]
+    },
+    {
+      "word": "faith",
+      "meanings": ["信任", "信心", "信仰", "信条"]
+    },
+    {
+      "word": "inspiration",
+      "meanings": ["灵感", "鼓舞人心的人"]
+    },
+    {
+      "word": "endurance",
+      "meanings": ["忍耐力", "持久", "耐久"]
+    },
+    {
+      "word": "highlight",
+      "meanings": ["强调", "突出", "使显著", "最精彩的部分", "最重要的事件"]
+    },
+    {
+      "word": "candidate",
+      "meanings": ["候选人", "投考者", "申请求职者"]
+    },
+    {
+      "word": "strive",
+      "meanings": ["努力", "奋斗", "力求"]
+    },
+    {
+      "word": "database",
+      "meanings": ["数据库"]
+    },
+    {
+      "word": "intelligible",
+      "meanings": ["可理解的", "明白易懂的", "清楚的"]
+    },
+    {
+      "word": "parallel",
+      "meanings": ["并列的", "平行的", "类似的", "对应的", "并联的", "可相比拟的事物"]
+    }
+  ]
+}
+```

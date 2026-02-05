@@ -1,0 +1,67 @@
+{
+  "grade": "一年级下册",
+  "Unit 1": {
+    "apple": "苹果",
+    "banana": "香蕉",
+    "orange": "橙子",
+    "pear": "梨",
+    "grape": "葡萄",
+    "watermelon": "西瓜",
+    "strawberry": "草莓",
+    "fruit": "水果"
+  },
+  "Unit 2": {
+    "father": "爸爸",
+    "mother": "妈妈",
+    "brother": "哥哥；弟弟",
+    "sister": "姐姐；妹妹",
+    "grandpa": "爷爷；外公",
+    "grandma": "奶奶；外婆",
+    "man": "男人",
+    "woman": "女人"
+  },
+  "Unit 3": {
+    "pen": "钢笔",
+    "pencil": "铅笔",
+    "ruler": "尺子",
+    "eraser": "橡皮",
+    "crayon": "蜡笔",
+    "book": "书",
+    "bag": "书包",
+    "schoolbag": "书包"
+  },
+  "Unit 4": {
+    "dog": "狗",
+    "cat": "猫",
+    "monkey": "猴子",
+    "panda": "熊猫",
+    "rabbit": "兔子",
+    "bird": "鸟",
+    "tiger": "老虎",
+    "elephant": "大象"
+  },
+  "Unit 5": {
+    "one": "一",
+    "two": "二",
+    "three": "三",
+    "four": "四",
+    "five": "五",
+    "six": "六",
+    "seven": "七",
+    "eight": "八",
+    "nine": "九",
+    "ten": "十",
+    "eleven": "十一",
+    "twelve": "十二"
+  },
+  "Unit 6": {
+    "red": "红色",
+    "yellow": "黄色",
+    "green": "绿色",
+    "blue": "蓝色",
+    "black": "黑色",
+    "white": "白色",
+    "pink": "粉色",
+    "purple": "紫色"
+  }
+}

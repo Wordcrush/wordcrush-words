@@ -1,0 +1,64 @@
+{
+  "grade": "二年级下册",
+  "Unit 1": {
+    "school": "学校",
+    "classroom": "教室",
+    "library": "图书馆",
+    "playground": "操场",
+    "book": "书",
+    "ruler": "尺子",
+    "pencil": "铅笔",
+    "eraser": "橡皮"
+  },
+  "Unit 2": {
+    "spring": "春天",
+    "summer": "夏天",
+    "autumn": "秋天",
+    "winter": "冬天",
+    "warm": "温暖的",
+    "hot": "热的",
+    "cool": "凉爽的",
+    "cold": "寒冷的"
+  },
+  "Unit 3": {
+    "taxi": "出租车",
+    "bus": "公共汽车",
+    "bike": "自行车",
+    "ship": "船",
+    "car": "小汽车",
+    "plane": "飞机",
+    "train": "火车",
+    "subway": "地铁"
+  },
+  "Unit 4": {
+    "peach": "桃子",
+    "pear": "梨",
+    "apple": "苹果",
+    "orange": "橙子",
+    "banana": "香蕉",
+    "grape": "葡萄",
+    "watermelon": "西瓜",
+    "strawberry": "草莓"
+  },
+  "Unit 5": {
+    "seven": "七",
+    "eight": "八",
+    "nine": "九",
+    "ten": "十",
+    "eleven": "十一",
+    "twelve": "十二",
+    "thirteen": "十三",
+    "fourteen": "十四",
+    "fifteen": "十五"
+  },
+  "Unit 6": {
+    "shirt": "衬衫",
+    "skirt": "裙子",
+    "sweater": "毛衣",
+    "jacket": "夹克衫",
+    "coat": "外套",
+    "hat": "帽子",
+    "shoes": "鞋子",
+    "socks": "袜子"
+  }
+}
